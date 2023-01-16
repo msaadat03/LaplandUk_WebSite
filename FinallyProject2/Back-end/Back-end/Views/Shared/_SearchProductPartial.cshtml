@@ -1,0 +1,14 @@
+﻿@model ShopVM
+
+@foreach (var product in Model.Products)
+{
+    <li style=" margin-top:30px; text-align: center; list-style: none; width:200px !important; height:250px;  background-color: #C72121;">
+        <a asp-controller="ProductDetail" asp-action="Index" asp-route-id="@product.Id" style="color:whitesmoke; text-decoration:none;">
+            <img style="width:200px !important; height:200px;" src="~/assets/images/shop/products/@product.ProductImages.Where(m => m.IsMain).FirstOrDefault()?.Name">
+            @product.Name
+            @product.Price.ToString("N2")$
+        </a>
+    </li>
+}
+
+

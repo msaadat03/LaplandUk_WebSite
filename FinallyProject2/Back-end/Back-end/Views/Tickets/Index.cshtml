@@ -1,0 +1,77 @@
+﻿@model TicketsVM
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout1.cshtml";
+}
+ <main>
+        <section id="tickets-title">
+            <div class="container">
+                <div class="row">
+                    <div class="col-12">
+                        <div class="upper-title">
+                            <p>@Model.TicketsTitles.UpperTitle</p><br>
+                        </div>
+
+                        <div class="title">
+                            <h1>@Model.TicketsTitles.Title</h1>
+                        </div><br><br>
+
+                        <div class="content">
+                            <p>@Model.TicketsTitles.Desc</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="tickets-card">
+            <div class="container">
+                <div class="row">
+                    <div class="col-12">
+                        <div class="cards">
+                            <img src="~/assets/images/tickets/@Model.TicketAbouts.Images" alt="">
+                            <div class="upper-title">
+                                <h1>@Model.TicketAbouts.UpperTitle</h1>
+                            </div>
+                            <div class="content">
+                                <h2>@Model.TicketAbouts.Title</h2>
+                                <p>@Model.TicketAbouts.Desc</p>
+                            </div>
+                        </div>
+                        <div class="tickets-body">
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="faqs">
+            <div class="container">
+                <div class="row">
+                    <div class="col-12">
+                        <div class="booking-faqs">
+                            <h1>2023 Booking FAQs</h1>
+                            <div class="booking-about">
+                                <p>Here you'll find the answers you need for any questions about making a booking.
+                                    For our full FAQs, please visit here.</p>
+                            </div>
+
+                        </div>
+                    </div>
+
+                    <div class="col-12">
+                        <div class="ticket-includes">
+                            @foreach (var item in Model.Faqsses)
+                           {
+                                <h2>@item.Title</h2>
+                            <p>@Html.Raw(item.Desc)</p>
+                               
+                           }
+                           
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>

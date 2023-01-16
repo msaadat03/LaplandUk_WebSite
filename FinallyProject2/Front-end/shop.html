@@ -1,0 +1,688 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet"
+        crossorigin="anonymous" />
+    <link rel="stylesheet" href="./assets/css/shop/shop.css" />
+    <title>Shop</title>
+</head>
+
+<body>
+    <header>
+        <div class="nav-area"></div>
+        <section id="navbar">
+            <div class="container">
+                <div class="row">
+                    <div class="col-4">
+                        <div class="nav-menu">
+                            <ul>
+                                <li><a href="home.html">Home</a></li>
+                                <li><a href="shop.html">Shop</a></li>
+                            </ul>
+                        </div>
+                    </div>
+
+                    <div class="col-4">
+                        <div class="logo"><img src="./assets/images/shop/logo.png" alt=""></div>
+                    </div>
+
+                    <div class="col-4">
+                        <div class="nav-menu2">
+                            <div class="search">
+                                <div class="search-box">
+                                    <button class="btn-search"><i class="fas fa-search"></i></button>
+                                    <input type="text" class="input-search" placeholder="Search...">
+                                </div>
+                            </div>
+
+                            <div class="basket">
+                                <i class="fa-solid fa-basket-shopping"><sup>0</sup></i>
+                                <a href=""></a>
+
+                            </div>
+
+                            <div class="heart"><a href="favorite-product.html"><i class="fa-solid fa-heart"><sup>0</sup></i></a></div>
+
+                            <li class="user-hover">
+                                <a href="#">
+                                    <i class="fa-solid fa-user"></i>
+                                </a>
+                                <ul class="dropdown-list">
+                                  <li><a href="login.html">login</a></li>
+                                  <li><a href="register.html">register</a></li>
+                                  <li><a href="">exit</a></li>
+                                </ul>
+                              </li>
+
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+
+    </header>
+
+    <main>
+        <section id="shop-bg" style="background: #0f204b; height: 300px;">
+            <div class="container">
+                <div class="row pt-5">
+
+                    <div class="col-12">
+                        <h2>SHOP BY CATEGORIES</h2>
+
+
+                        <div class="col-12" style="display: flex !important; justify-content: center !important;">
+                            <ul class="category-mobile d-md-none list-unstyled">
+                                <li>
+                                    <i class="fas fa-caret-down"></i>
+                                    <ul class="category list-unstyled">
+                                        <li><button><a href="" data-id="all">ALL</a></button></li>
+                                        <li><button><a href="" data-id="home">HOME</a></button></li>
+                                        <li><button><a href="" data-id="toys">TOYS</a></button></li>
+                                        <li><button><a href="" data-id="wish">WISH JARS</a></button></li>
+                                        <li><button><a href="" data-id="books">BOOKS AND
+                                                    STATIONERY</a></button></li>
+                                    </ul>
+                                </li>
+                            </ul>
+                            <ul class="category d-none d-md-flex list-unstyled">
+                                <li><button><a href="" data-id="all">ALL</a></button></li>
+                                <li><button><a href="" data-id="home">HOME</a></button></li>
+                                <li><button><a href="" data-id="toys">TOYS</a></button></li>
+                                <li><button><a href="" data-id="wish">WISH JARS</a></button></li>
+                                <li><button><a href="" data-id="books">BOOKS AND
+                                            STATIONERY</a></button></li>
+
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </section>
+
+        <section id="shop-product">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-3 col-md-6 col-sm-12">
+                        <div class="filter-product">
+                            <h5><i class="fa-solid fa-filter"></i>Filters</h5>
+                            <h5>Price</h5>
+                            <div class="input-price">
+                                <div class="input-area">
+                                    <input type="number" class="input-min" value="5" />
+                                </div>
+                                <div class="input-area">
+                                    <input type="number" class="input-max" max="300" value="300" />
+                                </div>
+                            </div>
+                            <div class="range">
+                                <div class="progress"></div>
+                            </div>
+                            <div class="range-input">
+                                <input type="range" class="range-min" min="0" max="300" value="5" step="10" />
+                                <input type="range" class="range-max" min="0" max="300" value="300" step="10" />
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-9">
+                        <section id="products">
+                            <div class="container">
+
+                                <div class="row">
+                                    <div class="col-sm-6 col-md-4 col-lg-3 mt-4">
+                                        <div class="product-item" data-id="toys" product-id="1">
+                                            <div class="img">
+                                                <a href="product-detail.html">
+                                                    <img src="./assets/images/shop/products/Eeko1.png" class="img-fluid"
+                                                        alt="" />
+                                                    <img src="./assets/images/shop/products/Eeko2.png" class="img-fluid"
+                                                        alt="" />
+                                                </a>
+                                                <div class="links">
+                                                    <div class="heart">
+                                                        <i class="fa-solid fa-heart"></i>
+                                                    </div>
+                                                </div>
+                                            </div>
+
+                                            <div class="title mt-3">
+                                                <h6>Eeko Soft Toy</h6>
+                                            </div>
+                                            <div class="price">
+                                                <span class="text-black-50">$20</span>
+                                            </div>
+                                            <div class="add-cart">
+                                                <button>Add To Cart</button>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-6 col-md-4 col-lg-3 mt-4">
+                                        <div class="product-item" data-id="home" product-id="2">
+                                            <div class="img">
+                                                <a href="product-detail.html">
+                                                    <img src="./assets/images/shop/products/eko_cup1.png"
+                                                        class="img-fluid" alt="" />
+                                                    <img src="./assets/images/shop/products/eko_cup2.png"
+                                                        class="img-fluid" alt="" />
+                                                </a>
+                                                <div class="links">
+                                                    <div class="heart">
+                                                        <i class="fa-solid fa-heart"></i>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="title mt-3">
+                                                <h6>MAJESTY PALM</h6>
+                                            </div>
+                                            <div class="price">
+                                                <span class="text-black-50">$7</span>
+                                            </div>
+                                            <div class="add-cart">
+                                                <button>Add To Cart</button>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-6 col-md-4 col-lg-3 mt-4">
+                                        <div class="product-item" data-id="wish" product-id="3">
+                                            <div class="img">
+                                                <a href="product-detail.html">
+                                                    <img src="./assets/images/shop/products/Wish-Jar-Small-Pink1.png"
+                                                        class="img-fluid" alt="" />
+                                                    <img src="./assets/images/shop/products/Wish-Jar-Small-Pink11.png"
+                                                        class="img-fluid" alt="" />
+                                                </a>
+                                                <div class="links">
+                                                    <div class="heart">
+                                                        <i class="fa-solid fa-heart"></i>
+                                                    </div>
+                                                </div>
+                                            </div>
+
+                                            <div class="title mt-3">
+                                                <h6>Small Pink and Lilac Light </h6>
+                                            </div>
+                                            <div class="price">
+                                                <span class="text-black-50">$6</span>
+                                            </div>
+                                            <div class="add-cart">
+                                                <button>Add To Cart</button>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-6 col-md-4 col-lg-3 mt-4">
+                                        <div class="product-item " data-id="books" product-id="4">
+                                            <div class="img">
+                                                <a href="product-detail.html">
+                                                    <img src="./assets/images/shop/products/Book2_1.png"
+                                                        class="img-fluid" alt="" />
+                                                    <img src="./assets/images/shop/products/Book2_11.png"
+                                                        class="img-fluid" alt="" />
+                                                </a>
+                                                <div class="links">
+                                                    <div class="heart">
+                                                        <i class="fa-solid fa-heart"></i>
+                                                    </div>
+                                                </div>
+                                            </div>
+
+                                            <div class="title mt-3">
+                                                <h6>Story of Father Christmas</h6>
+                                            </div>
+                                            <div class="price">
+                                                <span class="text-black-50">$15</span>
+                                            </div>
+                                            <div class="add-cart">
+                                                <button>Add To Cart</button>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-6 col-md-4 col-lg-3 mt-4">
+                                        <div class="product-item " data-id="home" product-id="5">
+                                            <div class="img">
+                                                <a href="product-detail.html">
+                                                    <img src="./assets/images/shop/products/FC-MUG_1.png"
+                                                        class="img-fluid" alt="" />
+                                                    <img src="./assets/images/shop/products/FC-MUG_2.png"
+                                                        class="img-fluid" alt="" />
+                                                </a>
+                                                <div class="links">
+                                                    <div class="heart">
+                                                        <i class="fa-solid fa-heart"></i>
+                                                    </div>
+                                                </div>
+                                            </div>
+
+                                            <div class="title mt-3">
+                                                <h6>Lapland Father Christmas</h6>
+                                            </div>
+                                            <div class="price">
+                                                <span class="text-black-50">$6</span>
+                                            </div>
+                                            <div class="add-cart">
+                                                <button>Add To Cart</button>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-6 col-md-4 col-lg-3 mt-4">
+                                        <div class="product-item" data-id="wish" product-id="6">
+                                            <div class="img">
+                                                <a href="product-detail.html">
+                                                    <img src="./assets/images/shop/products/Wish-Jar-Blue_1.png"
+                                                        class="img-fluid" alt="" />
+                                                    <img src="./assets/images/shop/products/blue-jar-2_11.png"
+                                                        class="img-fluid" alt="" />
+                                                </a>
+                                                <div class="links">
+                                                    <div class="heart">
+                                                        <i class="fa-solid fa-heart"></i>
+                                                    </div>
+                                                </div>
+                                            </div>
+
+                                            <div class="title mt-3">
+                                                <h6>Large Navy Lapland Light</h6>
+                                            </div>
+                                            <div class="price">
+                                                <span class="text-black-50">$15</span>
+                                            </div>
+                                            <div class="add-cart">
+                                                <button>Add To Cart</button>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-6 col-md-4 col-lg-3 mt-4">
+                                        <div class="product-item " data-id="toys" product-id="7">
+                                            <div class="img">
+                                                <a href="product-detail.html">
+                                                    <img src="./assets/images/shop/products/TOY22-008-3_1.png"
+                                                        class="img-fluid" alt="" />
+                                                    <img src="./assets/images/shop/products/TOY22-008-5_11.png"
+                                                        class="img-fluid" alt="" />
+                                                </a>
+                                                <div class="links">
+                                                    <div class="heart">
+                                                        <i class="fa-solid fa-heart"></i>
+                                                    </div>
+                                                </div>
+                                            </div>
+
+                                            <div class="title mt-3">
+                                                <h6>Lapland Dominoes</h6>
+                                            </div>
+                                            <div class="price">
+                                                <span class="text-black-50">$12</span>
+                                            </div>
+                                            <div class="add-cart">
+                                                <button>Add To Cart</button>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-6 col-md-4 col-lg-3 mt-4">
+                                        <div class="product-item " data-id="toys" product-id="8">
+                                            <div class="img">
+                                                <a href="product-detail.html">
+                                                    <img src="./assets/images/shop/products/ToyFactory.png"
+                                                        class="img-fluid" alt="" />
+                                                    <img src="./assets/images/shop/products/ToyFactory_1.png"
+                                                        class="img-fluid" alt="" />
+                                                </a>
+                                                <div class="links">
+                                                    <div class="heart">
+                                                        <i class="fa-solid fa-heart"></i>
+                                                    </div>
+                                                </div>
+                                            </div>
+
+                                            <div class="title mt-3">
+                                                <h6>Wooden Reindeer Toy</h6>
+                                            </div>
+                                            <div class="price">
+                                                <span class="text-black-50">$20</span>
+                                            </div>
+                                            <div class="add-cart">
+                                                <button>Add To Cart</button>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-6 col-md-4 col-lg-3 mt-4">
+                                        <div class="product-item " data-id="books" product-id="9">
+                                            <div class="img">
+                                                <a href="product-detail.html">
+                                                    <img src="./assets/images/shop/products/LittleRudi-1_1.png"
+                                                        class="img-fluid" alt="" />
+                                                    <img src="./assets/images/shop/products/LittleRudi-8_11.png"
+                                                        class="img-fluid" alt="" />
+                                                </a>
+                                                <div class="links">
+                                                    <div class="heart">
+                                                        <i class="fa-solid fa-heart"></i>
+                                                    </div>
+                                                </div>
+                                            </div>
+
+                                            <div class="title mt-3">
+                                                <h6>Little Rudi Story Book</h6>
+                                            </div>
+                                            <div class="price">
+                                                <span class="text-black-50">$12</span>
+                                            </div>
+                                            <div class="add-cart">
+                                                <button>Add To Cart</button>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-6 col-md-4 col-lg-3 mt-4">
+                                        <div class="product-item" data-id="toys" product-id="10">
+                                            <div class="img">
+                                                <a href="product-detail.html">
+                                                    <img src="./assets/images/shop/products/Blue-Husky_1.png"
+                                                        class="img-fluid" alt="" />
+                                                    <img src="./assets/images/shop/products/Blue-Husky-4_11.png"
+                                                        class="img-fluid" alt="" />
+                                                </a>
+                                                <div class="links">
+                                                    <div class="heart">
+                                                        <i class="fa-solid fa-heart"></i>
+                                                    </div>
+                                                </div>
+                                            </div>
+
+                                            <div class="title mt-3">
+                                                <h6>Small Jarvi Husky Puppy</h6>
+                                            </div>
+                                            <div class="price">
+                                                <span class="text-black-50">$10</span>
+                                            </div>
+                                            <div class="add-cart">
+                                                <button>Add To Cart</button>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-6 col-md-4 col-lg-3 mt-4">
+                                        <div class="product-item" data-id="books" product-id="11">
+                                            <div class="img">
+                                                <a href="product-detail.html">
+                                                    <img src="./assets/images/shop/products/Book_300_1.png"
+                                                        class="img-fluid" alt="" />
+                                                    <img src="./assets/images/shop/products/Book_300_11.png"
+                                                        class="img-fluid" alt="" />
+                                                </a>
+                                                <div class="links">
+                                                    <div class="heart">
+                                                        <i class="fa-solid fa-heart"></i>
+                                                    </div>
+                                                </div>
+                                            </div>
+
+                                            <div class="title mt-3">
+                                                <h6>Christmas Elves</h6>
+                                            </div>
+                                            <div class="price">
+                                                <span class="text-black-50">$15</span>
+                                            </div>
+                                            <div class="add-cart">
+                                                <button>Add To Cart</button>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-6 col-md-4 col-lg-3 mt-4">
+                                        <div class="product-item " data-id="wish" product-id="12">
+                                            <div class="img">
+                                                <a href="product-detail.html">
+                                                    <img src="./assets/images/shop/products/Small-Wish-Jar_1.png"
+                                                        class="img-fluid" alt="" />
+                                                    <img src="./assets/images/shop/products/Small-Wish-Jar_11.png"
+                                                        class="img-fluid" alt="" />
+                                                </a>
+                                                <div class="links">
+                                                    <div class="heart">
+                                                        <i class="fa-solid fa-heart"></i>
+                                                    </div>
+                                                </div>
+                                            </div>
+
+                                            <div class="title mt-3">
+                                                <h6>MAJESTY PALM</h6>
+                                            </div>
+                                            <div class="price">
+                                                <span class="text-black-50">$259</span>
+                                            </div>
+                                            <div class="add-cart">
+                                                <button>Add To Cart</button>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-6 col-md-4 col-lg-3 mt-4">
+                                        <div class="product-item " data-id="wish" product-id="12">
+                                            <div class="img">
+                                                <a href="product-detail.html">
+                                                    <img src="./assets/images/shop/products/Turq_WIsh_Jar2_1.png"
+                                                        class="img-fluid" alt="" />
+                                                    <img src="./assets/images/shop/products/Turq_Wish_Jar_11.png"
+                                                        class="img-fluid" alt="" />
+                                                </a>
+                                                <div class="links">
+                                                    <div class="heart">
+                                                        <i class="fa-solid fa-heart"></i>
+                                                    </div>
+                                                </div>
+                                            </div>
+
+                                            <div class="title mt-3">
+                                                <h6>Medium Turquoise</h6>
+                                            </div>
+                                            <div class="price">
+                                                <span class="text-black-50">$12</span>
+                                            </div>
+                                            <div class="add-cart">
+                                                <button>Add To Cart</button>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-6 col-md-4 col-lg-3 mt-4">
+                                        <div class="product-item " data-id="books" product-id="12">
+                                            <div class="img">
+                                                <a href="product-detail.html">
+                                                    <img src="./assets/images/shop/products/Minikin_1.png"
+                                                        class="img-fluid" alt="" />
+                                                    <img src="./assets/images/shop/products/Minikin2_11.png"
+                                                        class="img-fluid" alt="" />
+                                                </a>
+                                                <div class="links">
+                                                    <div class="heart">
+                                                        <i class="fa-solid fa-heart"></i>
+                                                    </div>
+                                                </div>
+                                            </div>
+
+                                            <div class="title mt-3">
+                                                <h6>Minikin, The Elf</h6>
+                                            </div>
+                                            <div class="price">
+                                                <span class="text-black-50">$12</span>
+                                            </div>
+                                            <div class="add-cart">
+                                                <button>Add To Cart</button>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-6 col-md-4 col-lg-3 mt-4">
+                                        <div class="product-item " data-id="home" product-id="12">
+                                            <div class="img">
+                                                <a href="product-detail.html">
+                                                    <img src="./assets/images/shop/products/HoldingHandsMug_1.png"
+                                                        class="img-fluid" alt="" />
+                                                    <img src="./assets/images/shop/products/Holding-Hands-Mug-2_11.png"
+                                                        class="img-fluid" alt="" />
+                                                </a>
+                                                <div class="links">
+                                                    <div class="heart">
+                                                        <i class="fa-solid fa-heart"></i>
+                                                    </div>
+                                                </div>
+                                            </div>
+
+                                            <div class="title mt-3">
+                                                <h6>Holding Hands Mug</h6>
+                                            </div>
+                                            <div class="price">
+                                                <span class="text-black-50">$7</span>
+                                            </div>
+                                            <div class="add-cart">
+                                                <button>Add To Cart</button>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-6 col-md-4 col-lg-3 mt-4">
+                                        <div class="product-item " data-id="home" product-id="12">
+                                            <div class="img">
+                                                <a href="product-detail.html">
+                                                    <img src="./assets/images/shop/products/Pixie-Mixie-Mug_1.png"
+                                                        class="img-fluid" alt="" />
+                                                    <img src="./assets/images/shop/products/Pixie-Mixie-Mug-2_11.png"
+                                                        class="img-fluid" alt="" />
+                                                </a>
+                                                <div class="links">
+                                                    <div class="heart">
+                                                        <i class="fa-solid fa-heart"></i>
+                                                    </div>
+                                                </div>
+                                            </div>
+
+                                            <div class="title mt-3">
+                                                <h6>Pixie Mixie Mug</h6>
+                                            </div>
+                                            <div class="price">
+                                                <span class="text-black-50">$7</span>
+                                            </div>
+                                            <div class="add-cart">
+                                                <button>Add To Cart</button>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </section>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <section id="footercompany">
+            <div class="container">
+                <div class="footer">
+                    <div class="row">
+                        <div class="col-2">
+                            <div class="logo2">
+                                <img src="./assets/images/index/lapland_logo_white.png" alt="">
+                            </div>
+                        </div>
+
+                        <div class="col-10">
+                            <div class="aboutfooter">
+                                <div class="row">
+                                    <div class="col-3">
+                                        <div class="experience">
+                                            <h6>The Experience</h6>
+                                            <ul>
+                                                <li>Visit</li>
+                                                <li>Gallery</li>
+                                                <li>Reviews</li>
+                                                <li>Contact Us / FAQ</li>
+                                                <li>My Lapland</li>
+                                            </ul>
+                                        </div>
+                                    </div>
+
+                                    <div class="col-3">
+                                        <div class="about">
+                                            <h6>About Lapland UK</h6>
+                                            <ul>
+                                                <li>Join Us</li>
+                                                <li>Privacy</li>
+
+                                            </ul>
+
+
+                                            <h5>Our World</h5>
+                                            <ul>
+                                                <li>Map</li>
+                                            </ul>
+                                        </div>
+                                    </div>
+
+                                    <div class="col-3">
+                                        <div class="shop">
+                                            <h6>Shop</h6>
+
+                                            <ul>
+                                                <li>Shop online</li>
+                                                <li>Delivery</li>
+                                                <li>Terms & Conditions</li>
+                                            </ul>
+                                        </div>
+                                    </div>
+
+                                    <div class="col-3">
+                                        <div class="wishing">
+                                            <h6>Wishing Glass App</h6>
+                                            <img class="google" src="./assets/images/index/Google_Play.svg" alt="">
+                                            <img class="appstore" src="./assets/images/index/appstore_logo.svg"
+                                                alt=""><br><br><br>
+                                        </div>
+
+
+                                        <div class="socials">
+                                            <img src="./assets/images/index/logo_instagram.png" alt="">
+                                            <img src="./assets/images/index/logo_fb.png" alt="">
+                                            <img src="./assets/images/index/logo_youtube.png" alt="">
+                                            <img src="./assets/images/index/logo_twitter.png" alt="">
+                                        </div>
+
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+
+                </div>
+            </div>
+            </div>
+            <div class="col-12">
+                <div class="footer-2">
+                    <p>© 2010 — 2022 Privacy — Terms</p>
+                </div>
+            </div>
+
+            </div>
+        </section>
+    </footer>
+
+
+    <script>
+        $(".btn").on("click", function () {
+            $(".input").toggleClass("inclicked");
+            $(".btn").toggleClass("close");
+        });
+    </script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" crossorigin="anonymous"
+        referrerpolicy="no-referrer"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"
+        crossorigin="anonymous"></script>
+    <script src="https://code.jquery.com/jquery-1.12.4.min.js" crossorigin="anonymous"></script>
+    <script src="https://kit.fontawesome.com/b39b112ecb.js" crossorigin="anonymous"></script>
+    <script src="./assets/js/shop/shop.js"></script>
+</body>
+
+</html>

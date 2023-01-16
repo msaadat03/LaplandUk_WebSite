@@ -1,0 +1,19 @@
+﻿@model CategoryUpdateVM
+
+<div class="container-fluid mx-5 my-3">
+    <h3>Category - Create</h3>
+    <form asp-action="Update" method="post" enctype="multipart/form-data">
+        <div>
+            <label class="my-3" asp-for="Name">Category</label>
+            <input class="form-control" type="text" asp-for="Name">
+            <span class="text-danger my-1" asp-validation-for="Name"></span>
+        </div>
+
+        <a class="btn btn-danger my-3" style="color: white;" asp-controller="Category" asp-action="Index">Back</a>
+        <button type="submit" style="color: white;" class="btn btn-primary my-3">Update</button>
+    </form>
+</div>
+
+@section Scripts{
+    <partial name="_ValidationPartial" />
+}

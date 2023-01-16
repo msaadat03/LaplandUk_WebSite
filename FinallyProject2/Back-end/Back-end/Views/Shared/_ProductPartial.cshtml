@@ -1,0 +1,34 @@
+﻿@model ShopVM
+
+@foreach (var item in Model.Products)
+{
+    <div class="col-sm-6 col-md-4 col-lg-3 mt-4">
+        <div class="product-item" card-id="@item.Id" product-id="@item.Id" data-id="@item.ProductSubCategories.FirstOrDefault(m => m.SubCategory.CategoryId == 1)?.SubCategoryId">
+            <input type="hidden" class="product-id" value="@item.Id" />
+            <div class="img">
+                <a asp-controller="ProductDetail" asp-action="Index" asp-route-id="@item.Id">
+                    <img src="~/assets/images/shop/products/@item.ProductImages.FirstOrDefault(m => m.IsMain)?.Name" class="img-fluid"
+                     alt="" />
+                    <img src="~/assets/images/shop/products/@item.ProductImages.FirstOrDefault(m => !m.IsMain)?.Name" class="img-fluid"
+                     alt="" />
+                </a>
+                <div class="links">
+                    <div class="heart">
+                        <i class="fa-solid fa-heart"></i>
+                    </div>
+                </div>
+            </div>
+
+            <div class="title mt-3">
+                <h6>@item.Name</h6>
+            </div>
+            <div class="price">
+                <span class="text-black-50">$@item.Price.ToString("N2")</span>
+            </div>
+            <div class="add-cart">
+                <button cart-id="@item.Id" id="addToCart">Add To Cart</button>
+            </div>
+        </div>
+    </div>
+
+}

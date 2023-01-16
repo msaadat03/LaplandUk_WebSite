@@ -1,0 +1,255 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+
+    overflow-x: hidden;
+
+    /*----------HEADER----------*/
+    #navbar {
+        background: url(https://portal.laplanduk.co.uk/wp-content/themes/lapland/dist/img/stars-bg.jpg);
+        position: relative;
+        margin-top: 55px;
+        border-bottom: 1px solid;
+
+        .logo {
+            position: absolute;
+            bottom: 1px;
+
+            img {
+                width: 180px;
+            }
+        }
+
+        .nav-menu {
+
+
+            ul {
+                list-style: none;
+                display: flex;
+                justify-content: center;
+                align-items: center;
+
+
+
+                li {
+                    margin-right: 20px;
+
+                    a {
+                        text-decoration: none;
+                        min-width: 137px;
+                        height: 33px;
+                        border-radius: 1000px;
+                        padding: 2px 20px 0;
+                        display: flex;
+                        justify-content: center;
+                        align-items: center;
+                        background-color: rgba(255, 255, 255, .05);
+                        -webkit-backdrop-filter: blur(2px);
+                        backdrop-filter: blur(2px);
+
+                        span {
+                            background-image: url(https://portal.laplanduk.co.uk/wp-content/themes/lapland/dist/img/gold.jpg);
+                            background-clip: text;
+                            -webkit-background-clip: text;
+                            color: transparent;
+                            font-size: 12px;
+                            text-transform: uppercase;
+
+                        }
+                    }
+                }
+            }
+        }
+
+        .nav-shop {
+            margin-left: 56px;
+
+            a {
+                min-width: 137px;
+                height: 33px;
+                border-radius: 1000px;
+                padding: 2px 20px 0;
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                background-image: url(https://portal.laplanduk.co.uk/wp-content/themes/lapland/dist/img/gold.jpg);
+                background-repeat: no-repeat;
+                background-size: cover;
+                color: #0f204b;
+                text-decoration: none;
+
+                span {
+                    font-size: 12px;
+                    text-transform: uppercase;
+                }
+            }
+        }
+    }
+
+    #new-title {
+        .title-back {
+            height: 273.14;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+
+            h3 {
+                text-align: center;
+                width: 500px;
+                font-size: 50px;
+                color: white;
+                position: absolute;
+            }
+        }
+
+        .title-back img {
+            width: 645px;
+            position: absolute;
+        }
+    }
+
+
+    /*----------MAIN----------*/
+    #blue-book-about {
+        margin-top: 155px;
+        margin-left: 100px;
+
+        .content {
+            margin-top: 30px;
+
+            p {
+                font-size: 24px;
+                color: white;
+                width: 500px;
+
+                a {
+                    color: white;
+                }
+            }
+        }
+        .bluebook-img{
+            img{
+                transition: 1s;
+            }
+            &:hover img{
+                transform: scale(1.2);
+            }
+        }
+
+
+
+    }
+
+    #images-bluebook-page {
+
+        .book-images {
+            margin-top: 50px;
+            overflow: hidden;
+
+
+            img {
+                transition: 2s;
+                display: block;
+             
+                border-radius: 10px;
+            }
+            img:hover {
+                transform: scale(1.1);
+            }
+        }
+    }
+
+
+    #bluebook-app {
+        margin-top: 185px;
+
+        .content {
+            display: flex;
+            justify-content: center;
+            width: 100%;
+            text-align: center;
+
+            p {
+                color: white;
+                font-size: 24px;
+                width: 919px;
+            }
+        }
+
+        .app-mobile {
+            display: flex;
+            justify-content: center;
+
+            img {
+                width: 460px;
+                height: 680px;
+            }
+        }
+    }
+
+    /*----------FOOTER----------*/
+    #footercompany {
+        margin-top: 100px;
+        background-color:   #010e20;
+
+        .footer {
+
+            padding-top: 80px;
+
+            .logo2 {
+                position: absolute;
+                left: 30;
+
+                img {
+                    width: 170px;
+                }
+            }
+
+            .aboutfooter {
+                color: white;
+
+                ul {
+                    padding-left: 0;
+
+                    li {
+                        list-style: none;
+                    }
+                }
+
+                .wishing {
+                    .google {
+                        width: 150px;
+                        margin-bottom: 10px;
+                    }
+                }
+
+                .socials {
+                    display: flex;
+                    gap: 20px;
+
+                    img {
+                        width: 20px;
+                    }
+                }
+            }
+        }
+
+        .footer-2 {
+            margin-top: 50px;
+            width: 100%;
+            height: 50px;
+            background: black;
+
+            p {
+                color: rgb(132, 132, 132);
+                margin-left: 105px;
+                position: absolute;
+                margin-top: 15px;
+            }
+        }
+    }
+}

@@ -1,0 +1,57 @@
+﻿@model ProductUpdateVM
+
+@{
+    List<SubCategory> categories = (List<SubCategory>)ViewBag.categories;
+}
+
+<div class="container-fluid mx-5 my-3">
+    <h3>Product - Update</h3>
+    <form asp-action="Update" method="post" enctype="multipart/form-data">
+
+        @foreach (var image in Model.Images)
+        {
+            <img style="border-radius: 5px; width: 150px; height: 200px;" src="~/assets/images/shop/products/@image.Name" alt="product">
+        }
+
+        <div>
+            <label class="my-3" asp-for="Photos">Images</label>
+            <input class="form-control" asp-for="Photos">
+            <span class="text-danger my-1" asp-validation-for="Photos"></span>
+        </div>
+
+        <div>
+            <label class="my-3" asp-for="Name">Name</label>
+            <input class="form-control" asp-for="Name">
+            <span class="text-danger my-1" asp-validation-for="Name"></span>
+        </div>
+
+        <div>
+            <label class="my-3" asp-for="Description">Description</label>
+            <input class="form-control" asp-for="Description">
+            <span class="text-danger my-1" asp-validation-for="Description"></span>
+        </div>
+
+        <div>
+            <label class="my-3" asp-for="Price">Price</label>
+            <input class="form-control" type="number" min="0" asp-for="Price">
+            <span class="text-danger my-1" asp-validation-for="Price"></span>
+        </div>
+
+        <div>
+            <label class="my-3" asp-for="CategoryId">Category - @Model.CategoryName</label>
+            <select class="form-control" asp-for="CategoryId">
+                @foreach (var category in categories)
+                {
+                    <option value="@category.Id">@category.Name</option>
+                }
+            </select>
+        </div>
+
+        <a class="btn btn-danger my-3" style="color: white;" asp-controller="Product" asp-action="Index">Back</a>
+        <button type="submit" class="btn btn-primary my-3" style="color: white;">Update</button>
+    </form>
+</div>
+
+@section Scripts{
+    <partial name="_ValidationPartial" />
+}

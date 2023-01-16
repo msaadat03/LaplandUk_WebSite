@@ -1,0 +1,78 @@
+﻿@model HeaderVM
+
+<header>
+    <div class="nav-area"></div>
+    <section id="navbar">
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+
+                    <div class="row">
+                        <div class="col-4">
+                            <div class="nav-menu">
+                                <ul>
+                                    <li><a asp-controller="Home" asp-action="Index">Home</a></li>
+                                    <li><a asp-controller="Shop" asp-action="Index">Shop</a></li>
+                                </ul>
+                            </div>
+                        </div>
+
+                        <div class="col-4">
+
+                            <div class="logo">
+                                <a asp-controller="Home" asp-action="Index"><img src="~/assets/images/shop/logo.png" alt=""></a>
+
+                            </div>
+                        </div>
+
+                        <div class="col-4">
+                            <div class="nav-menu2">
+                                <div class="search">
+                                    <div class="search-box">
+                                        <button class="btn-search"><i class="fas fa-search"></i></button>
+                                        <input type="text" class="input-search" placeholder="Search...">
+                                    </div>
+
+                                    <ul style="padding: 0;" id="search-list-product" class="d-block ">
+                                    </ul>
+                                </div>
+
+                                <div class="basket">
+
+                                    <a asp-controller="Basket" asp-action="Index"><i class="fa-solid fa-basket-shopping"><sup id="basketCount">@Model.Count</sup></i></a>
+
+                                </div>
+
+                                <div class="heart"><a asp-controller="Favorite" asp-action="Index"><i class="fa-solid fa-heart"><sup>0</sup></i></a></div>
+
+                                <li class="user-hover">
+                                    <a href="#">
+                                        <i class="fa-solid fa-user"></i>
+                                    </a>
+                                    <ul class="dropdown-list">
+                                        @if (User.Identity.IsAuthenticated)
+                                        {
+                                            <li>@User.Identity.Name</li>
+
+                                            <li><a asp-controller="Account" asp-action="Logout">exit</a></li>
+                                        }
+                                        else
+                                        {
+                                            <li><a asp-controller="Account" asp-action="Login">login</a></li>
+                                            <li><a asp-controller="Account" asp-action="Register">register</a></li>
+                                        }
+                                    </ul>
+                                </li>
+
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </section>
+
+
+</header>

@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body .backendsnow {
+  width: 100%;
+}
+
+/*----------MAIN----------*/
+#backendkimg .backimg {
+  width: 100%;
+  position: absolute;
+  top: 0;
+}
+#backendkimg .world-lights .world-northern-lights {
+  height: 100%;
+  width: 100%;
+  mix-blend-mode: screen;
+  position: absolute;
+  top: 65px;
+}/*# sourceMappingURL=index.css.map */

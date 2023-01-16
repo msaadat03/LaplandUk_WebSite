@@ -1,0 +1,159 @@
+﻿<html lang="en">
+
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+	@RenderSection("Links", required:false)
+</head>
+
+<style>
+		body{
+			background: url(https://portal.laplanduk.co.uk/wp-content/themes/lapland/dist/img/stars-bg.jpg);
+			overflow-x: hidden;
+			background-position: center;
+			background-repeat: no repeat;
+		}
+</style>
+
+<body>
+    <audio src="~/assets/music/we-wish-you-a-merry-christmas-126685.mp3" autoplay="autoplay"></audio>
+
+	<header>
+		<section id="navbar">
+			<div class="container">
+				<div class="row">
+					<div class="col-2">
+                   
+                        <div class="logo">
+                            <a asp-controller="Home" asp-action="Index" ><img src="~/assets/images/home/LaplandUK-Logo-Gold-500x170.png" alt=""></a>
+                            
+                        </div>
+					</div>
+
+					<div class="col-8">
+						<div class="nav-menu">
+							<ul class="menu">
+								<li> <a asp-controller="OurStory" asp-action="Index"><span>Our Story</span></a></li>
+								<li> <a asp-controller="Location" asp-action="Index"><span>Location</span></a></li>
+								<li> <a asp-controller="Tickets" asp-action="Index"><span>Tickets</span></a></li>
+								<li> <a asp-controller="Contact" asp-action="Index"><span>Contact Us</span></a> </li>
+							</ul>
+						</div>
+					</div>
+
+					<div class="col-2">
+						<div class="nav-shop">
+							<a asp-controller="Shop" asp-action="Index"><span>Shop</span></a>
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>
+		</header>
+	@RenderBody()
+   <footer>
+		<section id="footercompany">
+			<div class="container">
+				<div class="footer">
+					<div class="row">
+						<div class="col-2">
+							<div class="logo2">
+								<img src="~/assets/images/index/lapland_logo_white.png" alt="">
+							</div>
+						</div>
+
+						<div class="col-10">
+							<div class="aboutfooter">
+								<div class="row">
+									<div class="col-3">
+										<div class="experience">
+											<h6>The Experience</h6>
+											<ul>
+											<a style="text-decoration: none; color: white;" asp-controller="Location" asp-action="Index"><li>Visit</li></a>	
+                                            <a style="text-decoration: none; color: white;" asp-controller="Home" asp-action="Index"><li>Gallery</li></a>	
+                                            <a style="text-decoration: none; color: white;" asp-controller="Tickets" asp-action="Index"><li>Tickets</li></a>	
+                                            <a style="text-decoration: none; color: white;" asp-controller="Contact" asp-action="Index"><li>Contact Us</li></a>	
+											</ul>
+										</div>
+									</div>
+
+									<div class="col-3">
+										<div class="about">
+											<h6>About Lapland UK</h6>
+                                            <ul>
+                                                <a style="text-decoration: none; color: white;" asp-controller="OurStory" asp-action="Index">
+                                                <li>Book Story</li></a>
+
+                                                <a style="text-decoration: none; color: white;" asp-controller="Register" asp-action="Index">
+                                                <li>Join Us</li></a>
+
+
+                                            </ul>
+
+
+											<h5>Our World</h5>
+                                            <ul>
+                                                <a style="text-decoration: none; color: white;" href="https://www.google.co.uk/maps/place/LaplandUK/51.4085751,-0.7102024,17z/data=!4m13!1m7!3m6!1s0x48767e61db367521:0x169cfdbb33f9255a!2z0KPQuNC90LrRhNC40LvQtCDQoNC-0YMsINCQ0YHQutC-0YIgU0w1IDhCRCwg0JLQtdC70LjQutC-0LHRgNC40YLQsNC90LjRjw!3b1!8m2!3d51.4114105!4d-0.7070735!3m4!1s0x0:0xb8768fbfd40856ed!8m2!3d51.4083506!4d-0.7082691">
+                                                <li>Map</li></a>
+
+                                            </ul>
+										</div>
+									</div>
+
+									<div class="col-3">
+										<div class="shop">
+											<h6>Shop</h6>
+
+                                            <ul>
+
+                                                <a style="text-decoration: none; color: white;" asp-controller="Shop" asp-action="Index">
+                                                <li>Shop</li></a>
+
+                                            </ul>
+										</div>
+									</div>
+
+									<div class="col-3">
+										<div class="wishing">
+											<h6>Wishing Glass App</h6>
+											<img class="google" src="~/assets/images/index/Google_Play.svg" alt="">
+											<img class="appstore" src="~/assets/images/index/appstore_logo.svg"
+                                                alt=""><br><br><br>
+										</div>
+
+
+										<div class="socials">
+										<a href="https://www.instagram.com/visitlapland/"><img src="~/assets/images/index/logo_instagram.png" alt=""></a>	
+                                        <a href="https://www.facebook.com/visitlaplandSuomi/"><img src="~/assets/images/index/logo_fb.png" alt=""></a>	
+                                        <a href="https://www.youtube.com/watch?v=Cp4RRAEgpeU">	<img src="~/assets/images/index/logo_youtube.png" alt=""></a>
+                                        <a href="https://twitter.com/search?q=lapland&src=typed_query"><img src="~/assets/images/index/logo_twitter.png" alt=""></a>	
+										</div>
+
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+
+
+				</div>
+			</div>
+			</div>
+			<div class="col-12">
+				<div class="footer-2">
+					<p>© 2010 — 2022 Privacy — Terms</p>
+				</div>
+			</div>
+
+			</div>
+		</section>
+	</footer>
+
+
+	@RenderSection("Scripts", required:false)
+
+</body>
+
+</html>

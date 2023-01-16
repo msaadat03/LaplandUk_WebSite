@@ -1,0 +1,289 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Prata&display=swap');
+
+body {
+
+    overflow-x: hidden;
+
+    /*----------HEADER----------*/
+    #navbar {
+        background: url(https://portal.laplanduk.co.uk/wp-content/themes/lapland/dist/img/stars-bg.jpg);
+        position: relative;
+        margin-top: 55px;
+        border-bottom: 1px solid;
+
+        .logo {
+            position: absolute;
+            bottom: 1px;
+
+            img {
+                width: 180px;
+            }
+        }
+
+        .nav-menu {
+
+
+            ul {
+                list-style: none;
+                display: flex;
+                justify-content: center;
+                align-items: center;
+
+
+
+                li {
+                    margin-right: 20px;
+
+                    a {
+                        text-decoration: none;
+                        min-width: 137px;
+                        height: 33px;
+                        border-radius: 1000px;
+                        padding: 2px 20px 0;
+                        display: flex;
+                        justify-content: center;
+                        align-items: center;
+                        background-color: rgba(255, 255, 255, .05);
+                        -webkit-backdrop-filter: blur(2px);
+                        backdrop-filter: blur(2px);
+
+                        span {
+                            background-image: url(https://portal.laplanduk.co.uk/wp-content/themes/lapland/dist/img/gold.jpg);
+                            background-clip: text;
+                            -webkit-background-clip: text;
+                            color: transparent;
+                            font-size: 12px;
+                            text-transform: uppercase;
+
+                        }
+                    }
+                }
+            }
+        }
+
+        .nav-shop {
+            margin-left: 56px;
+
+            a {
+                min-width: 137px;
+                height: 33px;
+                border-radius: 1000px;
+                padding: 2px 20px 0;
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                background-image: url(https://portal.laplanduk.co.uk/wp-content/themes/lapland/dist/img/gold.jpg);
+                background-repeat: no-repeat;
+                background-size: cover;
+                color: #0f204b;
+                text-decoration: none;
+
+                span {
+                    font-size: 12px;
+                    text-transform: uppercase;
+                }
+            }
+        }
+    }
+
+    #new-title {
+        .title-back {
+            height: 273.14;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+
+            h3 {
+                font-family: 'Prata', serif;
+                text-align: center;
+                width: 500px;
+                font-size: 50px;
+                color: white;
+                position: absolute;
+            }
+        }
+
+        .title-back img {
+            width: 390px;
+            position: absolute;
+            margin-bottom: 20px;
+        }
+    }
+
+
+    /*----------MAIN----------*/
+    #traveling-lapland {
+        .about {
+            float: right;
+            margin-top: 55px;
+            width: 438px;
+            color: white;
+
+            h3 {
+                font-family: 'Prata', serif;
+            }
+
+            p {
+                font-size: 20px
+            }
+        }
+
+        .travel-images {
+            margin-left: 20px;
+            margin-top: 110px;
+
+            .image img {
+                width: 450px;
+                animation: spin 40s linear 0s infinite;
+
+                @keyframes spin {
+                    from {
+                        transform: rotate(0deg);
+                    }
+
+                    to {
+                        transform: rotate(360deg);
+                    }
+                }
+
+            }
+
+            .button-maps {
+                padding-left: 100px;
+                padding-top: 50px;
+
+                button {
+                    width: 231px;
+
+                    min-height: 45px;
+                    margin: 0;
+                    --box-shadow: none;
+                    font-size: 16px;
+                    font-weight: 500;
+                    color: #000;
+                    background: url(https://storage.googleapis.com/lapland-cdn/production/optimized/assets/background-gold-%401x.jpg);
+                    border-radius: 50px;
+
+                    span {
+                        margin-right: 25px;
+                    }
+
+                    ;
+
+                    i {
+                        position: relative;
+                        left: 32px;
+                        font-size: 18px;
+                    }
+
+                }
+
+            }
+        }
+    }
+
+    #taxis {
+        margin-top: 125px;
+
+        .taxis-images {
+            float: right;
+
+            img {
+                transition: 1s;
+                width: 450;
+            }
+
+            &:hover img{
+                transform: scale(1.2);
+            }
+        }
+
+        .about {
+            padding-left: 53px;
+            width: 480px;
+            color: white;
+
+            h3 {
+                font-family: 'Prata', serif;
+            }
+
+            p {
+                font-size: 20px;
+            }
+        }
+    }
+
+
+
+
+
+    /*----------FOOTER----------*/
+
+    #footercompany {
+        margin-top: 100px;
+        background-color: #010e20;
+
+        .footer {
+
+            padding-top: 80px;
+
+            .logo2 {
+                position: absolute;
+                left: 30;
+
+                img {
+                    width: 170px;
+                }
+            }
+
+            .aboutfooter {
+                color: white;
+
+                ul {
+                    padding-left: 0;
+
+                    li {
+                        list-style: none;
+                    }
+                }
+
+                .wishing {
+                    .google {
+                        width: 150px;
+                        margin-bottom: 10px;
+                    }
+                }
+
+                .socials {
+                    display: flex;
+                    gap: 20px;
+
+                    img {
+                        width: 20px;
+                    }
+                }
+            }
+        }
+
+        .footer-2 {
+            margin-top: 50px;
+            width: 100%;
+            height: 50px;
+            background: black;
+
+            p {
+                color: rgb(132, 132, 132);
+                margin-left: 105px;
+                position: absolute;
+                margin-top: 15px;
+            }
+        }
+    }
+
+}

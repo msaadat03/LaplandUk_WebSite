@@ -1,0 +1,401 @@
+D:\Code Academy\Finally Project\Back-end\Back-end\obj\Debug\netcoreapp3.1\Back-end.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code Academy\Finally Project\Back-end\Back-end\obj\Debug\netcoreapp3.1\Back-end.AssemblyInfoInputs.cache
+D:\Code Academy\Finally Project\Back-end\Back-end\obj\Debug\netcoreapp3.1\Back-end.AssemblyInfo.cs
+D:\Code Academy\Finally Project\Back-end\Back-end\obj\Debug\netcoreapp3.1\Back-end.csproj.CoreCompileInputs.cache
+D:\Code Academy\Finally Project\Back-end\Back-end\obj\Debug\netcoreapp3.1\Back-end.MvcApplicationPartsAssemblyInfo.cache
+D:\Code Academy\Finally Project\Back-end\Back-end\obj\Debug\netcoreapp3.1\Back-end.RazorAssemblyInfo.cache
+D:\Code Academy\Finally Project\Back-end\Back-end\obj\Debug\netcoreapp3.1\Back-end.RazorAssemblyInfo.cs
+D:\Code Academy\Finally Project\Back-end\Back-end\obj\Debug\netcoreapp3.1\staticwebassets\Back-end.StaticWebAssets.Manifest.cache
+D:\Code Academy\Finally Project\Back-end\Back-end\obj\Debug\netcoreapp3.1\staticwebassets\Back-end.StaticWebAssets.xml
+D:\Code Academy\Finally Project\Back-end\Back-end\obj\Debug\netcoreapp3.1\scopedcss\bundle\Back-end.styles.css
+D:\Code Academy\Finally Project\Back-end\Back-end\obj\Debug\netcoreapp3.1\Back-end.TagHelpers.input.cache
+D:\Code Academy\Finally Project\Back-end\Back-end\obj\Debug\netcoreapp3.1\Back-end.TagHelpers.output.cache
+D:\Code Academy\Finally Project\Back-end\Back-end\obj\Debug\netcoreapp3.1\Back-end.RazorCoreGenerate.cache
+D:\Code Academy\Finally Project\Back-end\Back-end\obj\Debug\netcoreapp3.1\Razor\Areas\AdminPanel\Views\Category\Create.cshtml.g.cs
+D:\Code Academy\Finally Project\Back-end\Back-end\obj\Debug\netcoreapp3.1\Razor\Areas\AdminPanel\Views\Category\Detail.cshtml.g.cs
+D:\Code Academy\Finally Project\Back-end\Back-end\obj\Debug\netcoreapp3.1\Razor\Areas\AdminPanel\Views\Category\Index.cshtml.g.cs
+D:\Code Academy\Finally Project\Back-end\Back-end\obj\Debug\netcoreapp3.1\Razor\Areas\AdminPanel\Views\Category\Update.cshtml.g.cs
+D:\Code Academy\Finally Project\Back-end\Back-end\obj\Debug\netcoreapp3.1\Razor\Areas\AdminPanel\Views\Dashboard\Index.cshtml.g.cs
+D:\Code Academy\Finally Project\Back-end\Back-end\obj\Debug\netcoreapp3.1\Razor\Areas\AdminPanel\Views\Product\Create.cshtml.g.cs
+D:\Code Academy\Finally Project\Back-end\Back-end\obj\Debug\netcoreapp3.1\Razor\Areas\AdminPanel\Views\Product\Detail.cshtml.g.cs
+D:\Code Academy\Finally Project\Back-end\Back-end\obj\Debug\netcoreapp3.1\Razor\Areas\AdminPanel\Views\Product\Index.cshtml.g.cs
+D:\Code Academy\Finally Project\Back-end\Back-end\obj\Debug\netcoreapp3.1\Razor\Areas\AdminPanel\Views\Product\Update.cshtml.g.cs
+D:\Code Academy\Finally Project\Back-end\Back-end\obj\Debug\netcoreapp3.1\Razor\Areas\AdminPanel\Views\Shared\_AdminLayout.cshtml.g.cs
+D:\Code Academy\Finally Project\Back-end\Back-end\obj\Debug\netcoreapp3.1\Razor\Areas\AdminPanel\Views\Shared\_ValidationPartial.cshtml.g.cs
+D:\Code Academy\Finally Project\Back-end\Back-end\obj\Debug\netcoreapp3.1\Razor\Areas\AdminPanel\Views\SubCategory\Create.cshtml.g.cs
+D:\Code Academy\Finally Project\Back-end\Back-end\obj\Debug\netcoreapp3.1\Razor\Areas\AdminPanel\Views\SubCategory\Detail.cshtml.g.cs
+D:\Code Academy\Finally Project\Back-end\Back-end\obj\Debug\netcoreapp3.1\Razor\Areas\AdminPanel\Views\SubCategory\Index.cshtml.g.cs
+D:\Code Academy\Finally Project\Back-end\Back-end\obj\Debug\netcoreapp3.1\Razor\Areas\AdminPanel\Views\SubCategory\Update.cshtml.g.cs
+D:\Code Academy\Finally Project\Back-end\Back-end\obj\Debug\netcoreapp3.1\Razor\Areas\AdminPanel\Views\_ViewImports.cshtml.g.cs
+D:\Code Academy\Finally Project\Back-end\Back-end\obj\Debug\netcoreapp3.1\Razor\Areas\AdminPanel\Views\_ViewStart.cshtml.g.cs
+D:\Code Academy\Finally Project\Back-end\Back-end\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+D:\Code Academy\Finally Project\Back-end\Back-end\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+D:\Code Academy\Finally Project\Back-end\Back-end\obj\Debug\netcoreapp3.1\Razor\Views\Account\VerifyEmail.cshtml.g.cs
+D:\Code Academy\Finally Project\Back-end\Back-end\obj\Debug\netcoreapp3.1\Razor\Views\Contact\Index.cshtml.g.cs
+D:\Code Academy\Finally Project\Back-end\Back-end\obj\Debug\netcoreapp3.1\Razor\Views\Favorite\Index.cshtml.g.cs
+D:\Code Academy\Finally Project\Back-end\Back-end\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Code Academy\Finally Project\Back-end\Back-end\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Code Academy\Finally Project\Back-end\Back-end\obj\Debug\netcoreapp3.1\Razor\Views\Index\Index.cshtml.g.cs
+D:\Code Academy\Finally Project\Back-end\Back-end\obj\Debug\netcoreapp3.1\Razor\Views\Location\Index.cshtml.g.cs
+D:\Code Academy\Finally Project\Back-end\Back-end\obj\Debug\netcoreapp3.1\Razor\Views\OurStory\Index.cshtml.g.cs
+D:\Code Academy\Finally Project\Back-end\Back-end\obj\Debug\netcoreapp3.1\Razor\Views\ProductDetail\Index.cshtml.g.cs
+D:\Code Academy\Finally Project\Back-end\Back-end\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Code Academy\Finally Project\Back-end\Back-end\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Code Academy\Finally Project\Back-end\Back-end\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout1.cshtml.g.cs
+D:\Code Academy\Finally Project\Back-end\Back-end\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout2.cshtml.g.cs
+D:\Code Academy\Finally Project\Back-end\Back-end\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ProductPartial.cshtml.g.cs
+D:\Code Academy\Finally Project\Back-end\Back-end\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Code Academy\Finally Project\Back-end\Back-end\obj\Debug\netcoreapp3.1\Razor\Views\Shop\Index.cshtml.g.cs
+D:\Code Academy\Finally Project\Back-end\Back-end\obj\Debug\netcoreapp3.1\Razor\Views\Tickets\Index.cshtml.g.cs
+D:\Code Academy\Finally Project\Back-end\Back-end\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Code Academy\Finally Project\Back-end\Back-end\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Code Academy\Finally Project\Back-end\Back-end\obj\Debug\netcoreapp3.1\Back-end.RazorTargetAssemblyInfo.cache
+D:\Code Academy\Finally Project\Back-end\Back-end\obj\Debug\netcoreapp3.1\Back-end.RazorTargetAssemblyInfo.cs
+D:\Code Academy\Finally Project\Back-end\Back-end\obj\Debug\netcoreapp3.1\Back-end.dll
+D:\Code Academy\Finally Project\Back-end\Back-end\obj\Debug\netcoreapp3.1\Back-end.pdb
+D:\Code Academy\Finally Project\Back-end\Back-end\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Code Academy\Finally Project\Back-end\Back-end\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Code Academy\Finally Project\Back-end\Back-end\bin\Debug\netcoreapp3.1\Back-end.exe
+D:\Code Academy\Finally Project\Back-end\Back-end\bin\Debug\netcoreapp3.1\Back-end.deps.json
+D:\Code Academy\Finally Project\Back-end\Back-end\bin\Debug\netcoreapp3.1\Back-end.runtimeconfig.json
+D:\Code Academy\Finally Project\Back-end\Back-end\bin\Debug\netcoreapp3.1\Back-end.runtimeconfig.dev.json
+D:\Code Academy\Finally Project\Back-end\Back-end\bin\Debug\netcoreapp3.1\Back-end.dll
+D:\Code Academy\Finally Project\Back-end\Back-end\bin\Debug\netcoreapp3.1\Back-end.pdb
+D:\Code Academy\Finally Project\Back-end\Back-end\bin\Debug\netcoreapp3.1\Back-end.Views.dll
+D:\Code Academy\Finally Project\Back-end\Back-end\bin\Debug\netcoreapp3.1\Back-end.Views.pdb
+D:\Code Academy\Finally Project\Back-end\Back-end\bin\Debug\netcoreapp3.1\MailKit.dll
+D:\Code Academy\Finally Project\Back-end\Back-end\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Code Academy\Finally Project\Back-end\Back-end\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Code Academy\Finally Project\Back-end\Back-end\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Code Academy\Finally Project\Back-end\Back-end\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\Code Academy\Finally Project\Back-end\Back-end\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Code Academy\Finally Project\Back-end\Back-end\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Code Academy\Finally Project\Back-end\Back-end\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\Code Academy\Finally Project\Back-end\Back-end\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\Code Academy\Finally Project\Back-end\Back-end\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Code Academy\Finally Project\Back-end\Back-end\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\Code Academy\Finally Project\Back-end\Back-end\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Code Academy\Finally Project\Back-end\Back-end\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Code Academy\Finally Project\Back-end\Back-end\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Code Academy\Finally Project\Back-end\Back-end\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Code Academy\Finally Project\Back-end\Back-end\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Code Academy\Finally Project\Back-end\Back-end\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Code Academy\Finally Project\Back-end\Back-end\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Code Academy\Finally Project\Back-end\Back-end\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Code Academy\Finally Project\Back-end\Back-end\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Code Academy\Finally Project\Back-end\Back-end\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Code Academy\Finally Project\Back-end\Back-end\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Code Academy\Finally Project\Back-end\Back-end\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Code Academy\Finally Project\Back-end\Back-end\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Code Academy\Finally Project\Back-end\Back-end\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Code Academy\Finally Project\Back-end\Back-end\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+D:\Code Academy\Finally Project\Back-end\Back-end\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+D:\Code Academy\Finally Project\Back-end\Back-end\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Code Academy\Finally Project\Back-end\Back-end\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Code Academy\Finally Project\Back-end\Back-end\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Code Academy\Finally Project\Back-end\Back-end\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Code Academy\Finally Project\Back-end\Back-end\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Code Academy\Finally Project\Back-end\Back-end\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Code Academy\Finally Project\Back-end\Back-end\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Code Academy\Finally Project\Back-end\Back-end\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Code Academy\Finally Project\Back-end\Back-end\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Code Academy\Finally Project\Back-end\Back-end\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Code Academy\Finally Project\Back-end\Back-end\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Code Academy\Finally Project\Back-end\Back-end\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Code Academy\Finally Project\Back-end\Back-end\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Code Academy\Finally Project\Back-end\Back-end\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\Code Academy\Finally Project\Back-end\Back-end\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Code Academy\Finally Project\Back-end\Back-end\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Code Academy\Finally Project\Back-end\Back-end\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Code Academy\Finally Project\Back-end\Back-end\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Code Academy\Finally Project\Back-end\Back-end\bin\Debug\netcoreapp3.1\MimeKit.dll
+D:\Code Academy\Finally Project\Back-end\Back-end\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Code Academy\Finally Project\Back-end\Back-end\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\Code Academy\Finally Project\Back-end\Back-end\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+D:\Code Academy\Finally Project\Back-end\Back-end\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Code Academy\Finally Project\Back-end\Back-end\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\Code Academy\Finally Project\Back-end\Back-end\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\Code Academy\Finally Project\Back-end\Back-end\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\Code Academy\Finally Project\Back-end\Back-end\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\Code Academy\Finally Project\Back-end\Back-end\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\Code Academy\Finally Project\Back-end\Back-end\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Code Academy\Finally Project\Back-end\Back-end\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Code Academy\Finally Project\Back-end\Back-end\bin\Debug\netcoreapp3.1\System.Formats.Asn1.dll
+D:\Code Academy\Finally Project\Back-end\Back-end\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Code Academy\Finally Project\Back-end\Back-end\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Code Academy\Finally Project\Back-end\Back-end\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+D:\Code Academy\Finally Project\Back-end\Back-end\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Cng.dll
+D:\Code Academy\Finally Project\Back-end\Back-end\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Pkcs.dll
+D:\Code Academy\Finally Project\Back-end\Back-end\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Code Academy\Finally Project\Back-end\Back-end\bin\Debug\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+D:\Code Academy\Finally Project\Back-end\Back-end\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Code Academy\Finally Project\Back-end\Back-end\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\Code Academy\Finally Project\Back-end\Back-end\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\Code Academy\Finally Project\Back-end\Back-end\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Code Academy\Finally Project\Back-end\Back-end\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\Code Academy\Finally Project\Back-end\Back-end\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Code Academy\Finally Project\Back-end\Back-end\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Code Academy\Finally Project\Back-end\Back-end\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Code Academy\Finally Project\Back-end\Back-end\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Code Academy\Finally Project\Back-end\Back-end\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Code Academy\Finally Project\Back-end\Back-end\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Code Academy\Finally Project\Back-end\Back-end\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Code Academy\Finally Project\Back-end\Back-end\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Code Academy\Finally Project\Back-end\Back-end\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Code Academy\Finally Project\Back-end\Back-end\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Code Academy\Finally Project\Back-end\Back-end\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Code Academy\Finally Project\Back-end\Back-end\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Code Academy\Finally Project\Back-end\Back-end\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Code Academy\Finally Project\Back-end\Back-end\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Code Academy\Finally Project\Back-end\Back-end\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Code Academy\Finally Project\Back-end\Back-end\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Code Academy\Finally Project\Back-end\Back-end\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Code Academy\Finally Project\Back-end\Back-end\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Code Academy\Finally Project\Back-end\Back-end\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Code Academy\Finally Project\Back-end\Back-end\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Code Academy\Finally Project\Back-end\Back-end\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Code Academy\Finally Project\Back-end\Back-end\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Code Academy\Finally Project\Back-end\Back-end\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Code Academy\Finally Project\Back-end\Back-end\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Code Academy\Finally Project\Back-end\Back-end\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Code Academy\Finally Project\Back-end\Back-end\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Code Academy\Finally Project\Back-end\Back-end\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Code Academy\Finally Project\Back-end\Back-end\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Code Academy\Finally Project\Back-end\Back-end\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Code Academy\Finally Project\Back-end\Back-end\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Code Academy\Finally Project\Back-end\Back-end\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Code Academy\Finally Project\Back-end\Back-end\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Code Academy\Finally Project\Back-end\Back-end\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Code Academy\Finally Project\Back-end\Back-end\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Code Academy\Finally Project\Back-end\Back-end\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Code Academy\Finally Project\Back-end\Back-end\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Code Academy\Finally Project\Back-end\Back-end\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Code Academy\Finally Project\Back-end\Back-end\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Code Academy\Finally Project\Back-end\Back-end\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Code Academy\Finally Project\Back-end\Back-end\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Code Academy\Finally Project\Back-end\Back-end\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Code Academy\Finally Project\Back-end\Back-end\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Code Academy\Finally Project\Back-end\Back-end\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Code Academy\Finally Project\Back-end\Back-end\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Code Academy\Finally Project\Back-end\Back-end\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Code Academy\Finally Project\Back-end\Back-end\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Code Academy\Finally Project\Back-end\Back-end\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Code Academy\Finally Project\Back-end\Back-end\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Code Academy\Finally Project\Back-end\Back-end\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Code Academy\Finally Project\Back-end\Back-end\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Code Academy\Finally Project\Back-end\Back-end\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Code Academy\Finally Project\Back-end\Back-end\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Code Academy\Finally Project\Back-end\Back-end\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Code Academy\Finally Project\Back-end\Back-end\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Code Academy\Finally Project\Back-end\Back-end\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Security.Cryptography.Cng.dll
+D:\Code Academy\Finally Project\Back-end\Back-end\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Security.Cryptography.Pkcs.dll
+D:\Code Academy\Finally Project\Back-end\Back-end\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Code Academy\Finally Project\Back-end\Back-end\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+D:\Code Academy\Finally Project\Back-end\Back-end\obj\Debug\netcoreapp3.1\Back-end.Views.pdb
+D:\Code Academy\Finally Project\Back-end\Back-end\obj\Debug\netcoreapp3.1\Back-end.csproj.CopyComplete
+D:\Code Academy\Finally Project\Back-end\Back-end\obj\Debug\netcoreapp3.1\Back-end.genruntimeconfig.cache
+D:\Code Academy\Finally Project\Back-end\Back-end\obj\Debug\netcoreapp3.1\Back-end.csproj.AssemblyReference.cache
+D:\Code Academy\Finally Project\Back-end\Back-end\obj\Debug\netcoreapp3.1\Razor\Views\Basket\Index.cshtml.g.cs
+D:\Code Academy\Finally Project\Back-end\Back-end\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_SearchProductPartial.cshtml.g.cs
+D:\Code Academy\Finally Project\Back-end\Back-end\obj\Debug\netcoreapp3.1\Razor\Views\Account\ForgetPassword.cshtml.g.cs
+C:\Users\Emil Abdullayev\Desktop\Sada2\FinallyProject2\Back-end\Back-end\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Emil Abdullayev\Desktop\Sada2\FinallyProject2\Back-end\Back-end\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Emil Abdullayev\Desktop\Sada2\FinallyProject2\Back-end\Back-end\bin\Debug\netcoreapp3.1\Back-end.exe
+C:\Users\Emil Abdullayev\Desktop\Sada2\FinallyProject2\Back-end\Back-end\bin\Debug\netcoreapp3.1\Back-end.deps.json
+C:\Users\Emil Abdullayev\Desktop\Sada2\FinallyProject2\Back-end\Back-end\bin\Debug\netcoreapp3.1\Back-end.runtimeconfig.json
+C:\Users\Emil Abdullayev\Desktop\Sada2\FinallyProject2\Back-end\Back-end\bin\Debug\netcoreapp3.1\Back-end.runtimeconfig.dev.json
+C:\Users\Emil Abdullayev\Desktop\Sada2\FinallyProject2\Back-end\Back-end\bin\Debug\netcoreapp3.1\Back-end.dll
+C:\Users\Emil Abdullayev\Desktop\Sada2\FinallyProject2\Back-end\Back-end\bin\Debug\netcoreapp3.1\Back-end.pdb
+C:\Users\Emil Abdullayev\Desktop\Sada2\FinallyProject2\Back-end\Back-end\bin\Debug\netcoreapp3.1\Back-end.Views.dll
+C:\Users\Emil Abdullayev\Desktop\Sada2\FinallyProject2\Back-end\Back-end\bin\Debug\netcoreapp3.1\Back-end.Views.pdb
+C:\Users\Emil Abdullayev\Desktop\Sada2\FinallyProject2\Back-end\Back-end\bin\Debug\netcoreapp3.1\MailKit.dll
+C:\Users\Emil Abdullayev\Desktop\Sada2\FinallyProject2\Back-end\Back-end\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Emil Abdullayev\Desktop\Sada2\FinallyProject2\Back-end\Back-end\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Emil Abdullayev\Desktop\Sada2\FinallyProject2\Back-end\Back-end\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Emil Abdullayev\Desktop\Sada2\FinallyProject2\Back-end\Back-end\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Emil Abdullayev\Desktop\Sada2\FinallyProject2\Back-end\Back-end\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Emil Abdullayev\Desktop\Sada2\FinallyProject2\Back-end\Back-end\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Emil Abdullayev\Desktop\Sada2\FinallyProject2\Back-end\Back-end\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Emil Abdullayev\Desktop\Sada2\FinallyProject2\Back-end\Back-end\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Emil Abdullayev\Desktop\Sada2\FinallyProject2\Back-end\Back-end\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Emil Abdullayev\Desktop\Sada2\FinallyProject2\Back-end\Back-end\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Emil Abdullayev\Desktop\Sada2\FinallyProject2\Back-end\Back-end\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Emil Abdullayev\Desktop\Sada2\FinallyProject2\Back-end\Back-end\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Emil Abdullayev\Desktop\Sada2\FinallyProject2\Back-end\Back-end\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Emil Abdullayev\Desktop\Sada2\FinallyProject2\Back-end\Back-end\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Emil Abdullayev\Desktop\Sada2\FinallyProject2\Back-end\Back-end\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Emil Abdullayev\Desktop\Sada2\FinallyProject2\Back-end\Back-end\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Emil Abdullayev\Desktop\Sada2\FinallyProject2\Back-end\Back-end\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Emil Abdullayev\Desktop\Sada2\FinallyProject2\Back-end\Back-end\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Emil Abdullayev\Desktop\Sada2\FinallyProject2\Back-end\Back-end\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Emil Abdullayev\Desktop\Sada2\FinallyProject2\Back-end\Back-end\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Emil Abdullayev\Desktop\Sada2\FinallyProject2\Back-end\Back-end\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Emil Abdullayev\Desktop\Sada2\FinallyProject2\Back-end\Back-end\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Emil Abdullayev\Desktop\Sada2\FinallyProject2\Back-end\Back-end\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Emil Abdullayev\Desktop\Sada2\FinallyProject2\Back-end\Back-end\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Emil Abdullayev\Desktop\Sada2\FinallyProject2\Back-end\Back-end\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Emil Abdullayev\Desktop\Sada2\FinallyProject2\Back-end\Back-end\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Emil Abdullayev\Desktop\Sada2\FinallyProject2\Back-end\Back-end\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Emil Abdullayev\Desktop\Sada2\FinallyProject2\Back-end\Back-end\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Emil Abdullayev\Desktop\Sada2\FinallyProject2\Back-end\Back-end\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Emil Abdullayev\Desktop\Sada2\FinallyProject2\Back-end\Back-end\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Emil Abdullayev\Desktop\Sada2\FinallyProject2\Back-end\Back-end\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Emil Abdullayev\Desktop\Sada2\FinallyProject2\Back-end\Back-end\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Emil Abdullayev\Desktop\Sada2\FinallyProject2\Back-end\Back-end\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Emil Abdullayev\Desktop\Sada2\FinallyProject2\Back-end\Back-end\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Emil Abdullayev\Desktop\Sada2\FinallyProject2\Back-end\Back-end\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Emil Abdullayev\Desktop\Sada2\FinallyProject2\Back-end\Back-end\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Emil Abdullayev\Desktop\Sada2\FinallyProject2\Back-end\Back-end\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Emil Abdullayev\Desktop\Sada2\FinallyProject2\Back-end\Back-end\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Emil Abdullayev\Desktop\Sada2\FinallyProject2\Back-end\Back-end\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Emil Abdullayev\Desktop\Sada2\FinallyProject2\Back-end\Back-end\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Emil Abdullayev\Desktop\Sada2\FinallyProject2\Back-end\Back-end\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Emil Abdullayev\Desktop\Sada2\FinallyProject2\Back-end\Back-end\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Emil Abdullayev\Desktop\Sada2\FinallyProject2\Back-end\Back-end\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Emil Abdullayev\Desktop\Sada2\FinallyProject2\Back-end\Back-end\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Emil Abdullayev\Desktop\Sada2\FinallyProject2\Back-end\Back-end\bin\Debug\netcoreapp3.1\MimeKit.dll
+C:\Users\Emil Abdullayev\Desktop\Sada2\FinallyProject2\Back-end\Back-end\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Emil Abdullayev\Desktop\Sada2\FinallyProject2\Back-end\Back-end\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Emil Abdullayev\Desktop\Sada2\FinallyProject2\Back-end\Back-end\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\Emil Abdullayev\Desktop\Sada2\FinallyProject2\Back-end\Back-end\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Emil Abdullayev\Desktop\Sada2\FinallyProject2\Back-end\Back-end\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Emil Abdullayev\Desktop\Sada2\FinallyProject2\Back-end\Back-end\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Emil Abdullayev\Desktop\Sada2\FinallyProject2\Back-end\Back-end\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Emil Abdullayev\Desktop\Sada2\FinallyProject2\Back-end\Back-end\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Emil Abdullayev\Desktop\Sada2\FinallyProject2\Back-end\Back-end\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Emil Abdullayev\Desktop\Sada2\FinallyProject2\Back-end\Back-end\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Emil Abdullayev\Desktop\Sada2\FinallyProject2\Back-end\Back-end\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Emil Abdullayev\Desktop\Sada2\FinallyProject2\Back-end\Back-end\bin\Debug\netcoreapp3.1\System.Formats.Asn1.dll
+C:\Users\Emil Abdullayev\Desktop\Sada2\FinallyProject2\Back-end\Back-end\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Emil Abdullayev\Desktop\Sada2\FinallyProject2\Back-end\Back-end\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Emil Abdullayev\Desktop\Sada2\FinallyProject2\Back-end\Back-end\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Emil Abdullayev\Desktop\Sada2\FinallyProject2\Back-end\Back-end\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Cng.dll
+C:\Users\Emil Abdullayev\Desktop\Sada2\FinallyProject2\Back-end\Back-end\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Pkcs.dll
+C:\Users\Emil Abdullayev\Desktop\Sada2\FinallyProject2\Back-end\Back-end\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Emil Abdullayev\Desktop\Sada2\FinallyProject2\Back-end\Back-end\bin\Debug\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+C:\Users\Emil Abdullayev\Desktop\Sada2\FinallyProject2\Back-end\Back-end\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Emil Abdullayev\Desktop\Sada2\FinallyProject2\Back-end\Back-end\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Emil Abdullayev\Desktop\Sada2\FinallyProject2\Back-end\Back-end\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Emil Abdullayev\Desktop\Sada2\FinallyProject2\Back-end\Back-end\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Emil Abdullayev\Desktop\Sada2\FinallyProject2\Back-end\Back-end\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Emil Abdullayev\Desktop\Sada2\FinallyProject2\Back-end\Back-end\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Emil Abdullayev\Desktop\Sada2\FinallyProject2\Back-end\Back-end\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Emil Abdullayev\Desktop\Sada2\FinallyProject2\Back-end\Back-end\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Emil Abdullayev\Desktop\Sada2\FinallyProject2\Back-end\Back-end\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Emil Abdullayev\Desktop\Sada2\FinallyProject2\Back-end\Back-end\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Emil Abdullayev\Desktop\Sada2\FinallyProject2\Back-end\Back-end\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Emil Abdullayev\Desktop\Sada2\FinallyProject2\Back-end\Back-end\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Emil Abdullayev\Desktop\Sada2\FinallyProject2\Back-end\Back-end\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Emil Abdullayev\Desktop\Sada2\FinallyProject2\Back-end\Back-end\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Emil Abdullayev\Desktop\Sada2\FinallyProject2\Back-end\Back-end\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Emil Abdullayev\Desktop\Sada2\FinallyProject2\Back-end\Back-end\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Emil Abdullayev\Desktop\Sada2\FinallyProject2\Back-end\Back-end\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Emil Abdullayev\Desktop\Sada2\FinallyProject2\Back-end\Back-end\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Emil Abdullayev\Desktop\Sada2\FinallyProject2\Back-end\Back-end\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Emil Abdullayev\Desktop\Sada2\FinallyProject2\Back-end\Back-end\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Emil Abdullayev\Desktop\Sada2\FinallyProject2\Back-end\Back-end\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Emil Abdullayev\Desktop\Sada2\FinallyProject2\Back-end\Back-end\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Emil Abdullayev\Desktop\Sada2\FinallyProject2\Back-end\Back-end\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Emil Abdullayev\Desktop\Sada2\FinallyProject2\Back-end\Back-end\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Emil Abdullayev\Desktop\Sada2\FinallyProject2\Back-end\Back-end\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Emil Abdullayev\Desktop\Sada2\FinallyProject2\Back-end\Back-end\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Emil Abdullayev\Desktop\Sada2\FinallyProject2\Back-end\Back-end\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Emil Abdullayev\Desktop\Sada2\FinallyProject2\Back-end\Back-end\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Emil Abdullayev\Desktop\Sada2\FinallyProject2\Back-end\Back-end\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Emil Abdullayev\Desktop\Sada2\FinallyProject2\Back-end\Back-end\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Emil Abdullayev\Desktop\Sada2\FinallyProject2\Back-end\Back-end\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Emil Abdullayev\Desktop\Sada2\FinallyProject2\Back-end\Back-end\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Emil Abdullayev\Desktop\Sada2\FinallyProject2\Back-end\Back-end\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Emil Abdullayev\Desktop\Sada2\FinallyProject2\Back-end\Back-end\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Emil Abdullayev\Desktop\Sada2\FinallyProject2\Back-end\Back-end\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Emil Abdullayev\Desktop\Sada2\FinallyProject2\Back-end\Back-end\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Emil Abdullayev\Desktop\Sada2\FinallyProject2\Back-end\Back-end\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Emil Abdullayev\Desktop\Sada2\FinallyProject2\Back-end\Back-end\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Emil Abdullayev\Desktop\Sada2\FinallyProject2\Back-end\Back-end\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Emil Abdullayev\Desktop\Sada2\FinallyProject2\Back-end\Back-end\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Emil Abdullayev\Desktop\Sada2\FinallyProject2\Back-end\Back-end\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Emil Abdullayev\Desktop\Sada2\FinallyProject2\Back-end\Back-end\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Emil Abdullayev\Desktop\Sada2\FinallyProject2\Back-end\Back-end\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Emil Abdullayev\Desktop\Sada2\FinallyProject2\Back-end\Back-end\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Emil Abdullayev\Desktop\Sada2\FinallyProject2\Back-end\Back-end\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Emil Abdullayev\Desktop\Sada2\FinallyProject2\Back-end\Back-end\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Emil Abdullayev\Desktop\Sada2\FinallyProject2\Back-end\Back-end\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Emil Abdullayev\Desktop\Sada2\FinallyProject2\Back-end\Back-end\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Emil Abdullayev\Desktop\Sada2\FinallyProject2\Back-end\Back-end\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Emil Abdullayev\Desktop\Sada2\FinallyProject2\Back-end\Back-end\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Emil Abdullayev\Desktop\Sada2\FinallyProject2\Back-end\Back-end\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Emil Abdullayev\Desktop\Sada2\FinallyProject2\Back-end\Back-end\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Emil Abdullayev\Desktop\Sada2\FinallyProject2\Back-end\Back-end\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Emil Abdullayev\Desktop\Sada2\FinallyProject2\Back-end\Back-end\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Emil Abdullayev\Desktop\Sada2\FinallyProject2\Back-end\Back-end\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Emil Abdullayev\Desktop\Sada2\FinallyProject2\Back-end\Back-end\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Emil Abdullayev\Desktop\Sada2\FinallyProject2\Back-end\Back-end\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Emil Abdullayev\Desktop\Sada2\FinallyProject2\Back-end\Back-end\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Emil Abdullayev\Desktop\Sada2\FinallyProject2\Back-end\Back-end\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Emil Abdullayev\Desktop\Sada2\FinallyProject2\Back-end\Back-end\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Security.Cryptography.Cng.dll
+C:\Users\Emil Abdullayev\Desktop\Sada2\FinallyProject2\Back-end\Back-end\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Security.Cryptography.Pkcs.dll
+C:\Users\Emil Abdullayev\Desktop\Sada2\FinallyProject2\Back-end\Back-end\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Emil Abdullayev\Desktop\Sada2\FinallyProject2\Back-end\Back-end\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+C:\Users\Emil Abdullayev\Desktop\Sada2\FinallyProject2\Back-end\Back-end\obj\Debug\netcoreapp3.1\Back-end.csproj.AssemblyReference.cache
+C:\Users\Emil Abdullayev\Desktop\Sada2\FinallyProject2\Back-end\Back-end\obj\Debug\netcoreapp3.1\Back-end.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emil Abdullayev\Desktop\Sada2\FinallyProject2\Back-end\Back-end\obj\Debug\netcoreapp3.1\Back-end.AssemblyInfoInputs.cache
+C:\Users\Emil Abdullayev\Desktop\Sada2\FinallyProject2\Back-end\Back-end\obj\Debug\netcoreapp3.1\Back-end.AssemblyInfo.cs
+C:\Users\Emil Abdullayev\Desktop\Sada2\FinallyProject2\Back-end\Back-end\obj\Debug\netcoreapp3.1\Back-end.csproj.CoreCompileInputs.cache
+C:\Users\Emil Abdullayev\Desktop\Sada2\FinallyProject2\Back-end\Back-end\obj\Debug\netcoreapp3.1\Back-end.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Emil Abdullayev\Desktop\Sada2\FinallyProject2\Back-end\Back-end\obj\Debug\netcoreapp3.1\Back-end.RazorAssemblyInfo.cache
+C:\Users\Emil Abdullayev\Desktop\Sada2\FinallyProject2\Back-end\Back-end\obj\Debug\netcoreapp3.1\Back-end.RazorAssemblyInfo.cs
+C:\Users\Emil Abdullayev\Desktop\Sada2\FinallyProject2\Back-end\Back-end\obj\Debug\netcoreapp3.1\staticwebassets\Back-end.StaticWebAssets.Manifest.cache
+C:\Users\Emil Abdullayev\Desktop\Sada2\FinallyProject2\Back-end\Back-end\obj\Debug\netcoreapp3.1\Back-end.TagHelpers.input.cache
+C:\Users\Emil Abdullayev\Desktop\Sada2\FinallyProject2\Back-end\Back-end\obj\Debug\netcoreapp3.1\Back-end.TagHelpers.output.cache
+C:\Users\Emil Abdullayev\Desktop\Sada2\FinallyProject2\Back-end\Back-end\obj\Debug\netcoreapp3.1\Back-end.RazorCoreGenerate.cache
+C:\Users\Emil Abdullayev\Desktop\Sada2\FinallyProject2\Back-end\Back-end\obj\Debug\netcoreapp3.1\Razor\Areas\AdminPanel\Views\Category\Create.cshtml.g.cs
+C:\Users\Emil Abdullayev\Desktop\Sada2\FinallyProject2\Back-end\Back-end\obj\Debug\netcoreapp3.1\Razor\Areas\AdminPanel\Views\Category\Detail.cshtml.g.cs
+C:\Users\Emil Abdullayev\Desktop\Sada2\FinallyProject2\Back-end\Back-end\obj\Debug\netcoreapp3.1\Razor\Areas\AdminPanel\Views\Category\Index.cshtml.g.cs
+C:\Users\Emil Abdullayev\Desktop\Sada2\FinallyProject2\Back-end\Back-end\obj\Debug\netcoreapp3.1\Razor\Areas\AdminPanel\Views\Category\Update.cshtml.g.cs
+C:\Users\Emil Abdullayev\Desktop\Sada2\FinallyProject2\Back-end\Back-end\obj\Debug\netcoreapp3.1\Razor\Areas\AdminPanel\Views\Dashboard\Index.cshtml.g.cs
+C:\Users\Emil Abdullayev\Desktop\Sada2\FinallyProject2\Back-end\Back-end\obj\Debug\netcoreapp3.1\Razor\Areas\AdminPanel\Views\Product\Create.cshtml.g.cs
+C:\Users\Emil Abdullayev\Desktop\Sada2\FinallyProject2\Back-end\Back-end\obj\Debug\netcoreapp3.1\Razor\Areas\AdminPanel\Views\Product\Detail.cshtml.g.cs
+C:\Users\Emil Abdullayev\Desktop\Sada2\FinallyProject2\Back-end\Back-end\obj\Debug\netcoreapp3.1\Razor\Areas\AdminPanel\Views\Product\Index.cshtml.g.cs
+C:\Users\Emil Abdullayev\Desktop\Sada2\FinallyProject2\Back-end\Back-end\obj\Debug\netcoreapp3.1\Razor\Areas\AdminPanel\Views\Product\Update.cshtml.g.cs
+C:\Users\Emil Abdullayev\Desktop\Sada2\FinallyProject2\Back-end\Back-end\obj\Debug\netcoreapp3.1\Razor\Areas\AdminPanel\Views\Shared\_AdminLayout.cshtml.g.cs
+C:\Users\Emil Abdullayev\Desktop\Sada2\FinallyProject2\Back-end\Back-end\obj\Debug\netcoreapp3.1\Razor\Areas\AdminPanel\Views\Shared\_ValidationPartial.cshtml.g.cs
+C:\Users\Emil Abdullayev\Desktop\Sada2\FinallyProject2\Back-end\Back-end\obj\Debug\netcoreapp3.1\Razor\Areas\AdminPanel\Views\SubCategory\Create.cshtml.g.cs
+C:\Users\Emil Abdullayev\Desktop\Sada2\FinallyProject2\Back-end\Back-end\obj\Debug\netcoreapp3.1\Razor\Areas\AdminPanel\Views\SubCategory\Detail.cshtml.g.cs
+C:\Users\Emil Abdullayev\Desktop\Sada2\FinallyProject2\Back-end\Back-end\obj\Debug\netcoreapp3.1\Razor\Areas\AdminPanel\Views\SubCategory\Index.cshtml.g.cs
+C:\Users\Emil Abdullayev\Desktop\Sada2\FinallyProject2\Back-end\Back-end\obj\Debug\netcoreapp3.1\Razor\Areas\AdminPanel\Views\SubCategory\Update.cshtml.g.cs
+C:\Users\Emil Abdullayev\Desktop\Sada2\FinallyProject2\Back-end\Back-end\obj\Debug\netcoreapp3.1\Razor\Areas\AdminPanel\Views\_ViewImports.cshtml.g.cs
+C:\Users\Emil Abdullayev\Desktop\Sada2\FinallyProject2\Back-end\Back-end\obj\Debug\netcoreapp3.1\Razor\Areas\AdminPanel\Views\_ViewStart.cshtml.g.cs
+C:\Users\Emil Abdullayev\Desktop\Sada2\FinallyProject2\Back-end\Back-end\obj\Debug\netcoreapp3.1\Razor\Views\Account\ForgetPassword.cshtml.g.cs
+C:\Users\Emil Abdullayev\Desktop\Sada2\FinallyProject2\Back-end\Back-end\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\Emil Abdullayev\Desktop\Sada2\FinallyProject2\Back-end\Back-end\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\Emil Abdullayev\Desktop\Sada2\FinallyProject2\Back-end\Back-end\obj\Debug\netcoreapp3.1\Razor\Views\Account\VerifyEmail.cshtml.g.cs
+C:\Users\Emil Abdullayev\Desktop\Sada2\FinallyProject2\Back-end\Back-end\obj\Debug\netcoreapp3.1\Razor\Views\Basket\Index.cshtml.g.cs
+C:\Users\Emil Abdullayev\Desktop\Sada2\FinallyProject2\Back-end\Back-end\obj\Debug\netcoreapp3.1\Razor\Views\Contact\Index.cshtml.g.cs
+C:\Users\Emil Abdullayev\Desktop\Sada2\FinallyProject2\Back-end\Back-end\obj\Debug\netcoreapp3.1\Razor\Views\Favorite\Index.cshtml.g.cs
+C:\Users\Emil Abdullayev\Desktop\Sada2\FinallyProject2\Back-end\Back-end\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Emil Abdullayev\Desktop\Sada2\FinallyProject2\Back-end\Back-end\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Emil Abdullayev\Desktop\Sada2\FinallyProject2\Back-end\Back-end\obj\Debug\netcoreapp3.1\Razor\Views\Index\Index.cshtml.g.cs
+C:\Users\Emil Abdullayev\Desktop\Sada2\FinallyProject2\Back-end\Back-end\obj\Debug\netcoreapp3.1\Razor\Views\Location\Index.cshtml.g.cs
+C:\Users\Emil Abdullayev\Desktop\Sada2\FinallyProject2\Back-end\Back-end\obj\Debug\netcoreapp3.1\Razor\Views\OurStory\Index.cshtml.g.cs
+C:\Users\Emil Abdullayev\Desktop\Sada2\FinallyProject2\Back-end\Back-end\obj\Debug\netcoreapp3.1\Razor\Views\ProductDetail\Index.cshtml.g.cs
+C:\Users\Emil Abdullayev\Desktop\Sada2\FinallyProject2\Back-end\Back-end\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Emil Abdullayev\Desktop\Sada2\FinallyProject2\Back-end\Back-end\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Emil Abdullayev\Desktop\Sada2\FinallyProject2\Back-end\Back-end\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout1.cshtml.g.cs
+C:\Users\Emil Abdullayev\Desktop\Sada2\FinallyProject2\Back-end\Back-end\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout2.cshtml.g.cs
+C:\Users\Emil Abdullayev\Desktop\Sada2\FinallyProject2\Back-end\Back-end\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ProductPartial.cshtml.g.cs
+C:\Users\Emil Abdullayev\Desktop\Sada2\FinallyProject2\Back-end\Back-end\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_SearchProductPartial.cshtml.g.cs
+C:\Users\Emil Abdullayev\Desktop\Sada2\FinallyProject2\Back-end\Back-end\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Emil Abdullayev\Desktop\Sada2\FinallyProject2\Back-end\Back-end\obj\Debug\netcoreapp3.1\Razor\Views\Shop\Index.cshtml.g.cs
+C:\Users\Emil Abdullayev\Desktop\Sada2\FinallyProject2\Back-end\Back-end\obj\Debug\netcoreapp3.1\Razor\Views\Tickets\Index.cshtml.g.cs
+C:\Users\Emil Abdullayev\Desktop\Sada2\FinallyProject2\Back-end\Back-end\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Emil Abdullayev\Desktop\Sada2\FinallyProject2\Back-end\Back-end\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Emil Abdullayev\Desktop\Sada2\FinallyProject2\Back-end\Back-end\obj\Debug\netcoreapp3.1\Back-end.RazorTargetAssemblyInfo.cache
+C:\Users\Emil Abdullayev\Desktop\Sada2\FinallyProject2\Back-end\Back-end\obj\Debug\netcoreapp3.1\Back-end.RazorTargetAssemblyInfo.cs
+C:\Users\Emil Abdullayev\Desktop\Sada2\FinallyProject2\Back-end\Back-end\obj\Debug\netcoreapp3.1\Back-end.Views.pdb
+C:\Users\Emil Abdullayev\Desktop\Sada2\FinallyProject2\Back-end\Back-end\obj\Debug\netcoreapp3.1\Back-end.csproj.CopyComplete
+C:\Users\Emil Abdullayev\Desktop\Sada2\FinallyProject2\Back-end\Back-end\obj\Debug\netcoreapp3.1\Back-end.dll
+C:\Users\Emil Abdullayev\Desktop\Sada2\FinallyProject2\Back-end\Back-end\obj\Debug\netcoreapp3.1\Back-end.pdb
+C:\Users\Emil Abdullayev\Desktop\Sada2\FinallyProject2\Back-end\Back-end\obj\Debug\netcoreapp3.1\Back-end.genruntimeconfig.cache
+C:\Users\Emil Abdullayev\Desktop\Sada2\FinallyProject2\Back-end\Back-end\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\Header\Default.cshtml.g.cs
+C:\Users\Emil Abdullayev\Desktop\Sada2\FinallyProject2\Back-end\Back-end\obj\Debug\netcoreapp3.1\staticwebassets\Back-end.StaticWebAssets.xml
+C:\Users\Emil Abdullayev\Desktop\Sada2\FinallyProject2\Back-end\Back-end\obj\Debug\netcoreapp3.1\scopedcss\bundle\Back-end.styles.css

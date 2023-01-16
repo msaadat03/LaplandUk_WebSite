@@ -1,0 +1,289 @@
+@import url("https://fonts.googleapis.com/css2?family=Caramel&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Alegreya&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  overflow-x: hidden;
+  /*----------HEAD----------*/
+  /*----------MAIN----------*/
+  /*----------FOOTER----------*/
+}
+body #navbar {
+  position: relative;
+  margin-top: 55px;
+}
+body #navbar .logo {
+  position: absolute;
+  bottom: 1px;
+}
+body #navbar .logo img {
+  width: 180px;
+}
+body #navbar .nav-menu ul {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+body #navbar .nav-menu ul li {
+  background: none;
+  border: 1px solid #95775d;
+  border-radius: 20px;
+  margin-right: 20px;
+}
+body #navbar .nav-menu ul li a {
+  text-decoration: none;
+  min-width: 137px;
+  height: 33px;
+  border-radius: 1000px;
+  padding: 2px 20px 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: rgba(255, 255, 255, 0.05);
+  -webkit-backdrop-filter: blur(2px);
+  backdrop-filter: blur(2px);
+}
+body #navbar .nav-menu ul li a span {
+  color: #95775d;
+  font-size: 12px;
+  text-transform: uppercase;
+}
+body #navbar .nav-shop {
+  border: 1px solid black;
+  margin-left: 56px;
+  border-radius: 20px;
+}
+body #navbar .nav-shop a {
+  min-width: 137px;
+  height: 33px;
+  border-radius: 1000px;
+  padding: 2px 20px 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-image: url(https://portal.laplanduk.co.uk/wp-content/themes/lapland/dist/img/gold.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: #0f204b;
+  text-decoration: none;
+}
+body #navbar .nav-shop a span {
+  font-size: 12px;
+  text-transform: uppercase;
+}
+body #tickets-title {
+  margin-top: 150px;
+}
+body #tickets-title .upper-title {
+  position: relative;
+  left: 465px;
+  bottom: 40px;
+}
+body #tickets-title .upper-title p {
+  position: absolute;
+  line-height: 3.5;
+  transform: rotate(-4deg) translate(-50%, 0);
+  font-family: "Caramel", cursive;
+  color: #95775d;
+  font-size: 40px;
+}
+body #tickets-title .title {
+  display: flex;
+  justify-content: center;
+  font-family: "Alegreya", serif;
+}
+body #tickets-title .title h1 {
+  font-size: 104px;
+  color: #0F204B;
+}
+body #tickets-title .content {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  color: #0F204B;
+}
+body #tickets-title .content p {
+  width: 585px;
+}
+body #tickets-card .cards {
+  display: flex;
+  justify-content: center;
+}
+body #tickets-card .cards .upper-title {
+  font-family: "Caramel", cursive;
+  position: absolute;
+  margin-top: 165px;
+  margin-bottom: 6px;
+  line-height: 1.5;
+  background-image: url(https://portal.laplanduk.co.uk/wp-content/themes/lapland/dist/img/gold.jpg);
+  background-clip: text;
+  -webkit-background-clip: text;
+  color: transparent;
+}
+body #tickets-card .cards .upper-title h1 {
+  font-size: 80px;
+}
+body #tickets-card .cards .content {
+  position: absolute;
+  margin-top: 285px;
+}
+body #tickets-card .cards .content h2 {
+  color: white;
+  text-align: center;
+  font-size: 30px;
+  font-family: "Alegreya", serif;
+}
+body #tickets-card .cards .content p {
+  margin-top: 50px;
+  width: 606px;
+  text-align: center;
+  color: white;
+}
+body #tickets-card .cards .content .input-email {
+  display: flex;
+  justify-content: center;
+}
+body #tickets-card .cards .content .input-email input {
+  margin-top: 50px;
+  width: 400px;
+  border: 1px solid white;
+  border-radius: 5px;
+  padding: 20px;
+  height: 40px;
+  border-color: rgba(255, 255, 255, 0.5);
+  background-color: rgba(255, 255, 255, 0.1);
+}
+body #tickets-card .cards .content .bttn {
+  display: flex;
+  justify-content: center;
+  margin-top: 40px;
+}
+body #tickets-card .cards .content .bttn button {
+  font-size: 20px;
+  color: white;
+  border: none;
+  background: none;
+}
+body #faqs {
+  position: relative;
+}
+body #faqs .booking-faqs .booking-about {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
+body #faqs .booking-faqs h1 {
+  text-align: center;
+  font-family: "Caramel", cursive;
+  font-size: 65px;
+}
+body #faqs .booking-faqs p {
+  text-align: center;
+  width: 580px;
+}
+body #faqs .ticket-includes {
+  margin-top: 100px;
+  color: #0F204B;
+}
+body #faqs .ticket-includes p {
+  line-height: 2.5;
+}
+body #faqs .book-tickets {
+  margin-top: 60px;
+  color: #0F204B;
+}
+body #faqs .book-tickets p {
+  line-height: 2.5;
+}
+body #faqs .book-group {
+  margin-top: 60px;
+  color: #0F204B;
+}
+body #faqs .book-group p {
+  width: 1035px;
+  line-height: 1.5;
+}
+body #faqs .booking-familly {
+  margin-top: 60px;
+  color: #0F204B;
+}
+body #faqs .booking-familly p {
+  width: 1035px;
+  line-height: 1.5;
+}
+body #faqs .refund-policy {
+  margin-top: 60px;
+  color: #0F204B;
+}
+body #faqs .refund-policy p {
+  width: 1035px;
+  line-height: 1.5;
+}
+body #faqs .ticketplan {
+  margin-top: 60px;
+  color: #0F204B;
+}
+body #faqs .ticketplan p {
+  width: 1035px;
+  line-height: 1.5;
+}
+body #faqs .mylapland {
+  margin-top: 60px;
+  color: #0F204B;
+}
+body #faqs .mylapland p {
+  width: 1035px;
+  line-height: 1.5;
+}
+body #footercompany {
+  margin-top: 100px;
+  background-color: #010e20;
+}
+body #footercompany .footer {
+  padding-top: 80px;
+}
+body #footercompany .footer .logo2 {
+  position: absolute;
+  left: 30;
+}
+body #footercompany .footer .logo2 img {
+  width: 170px;
+}
+body #footercompany .footer .aboutfooter {
+  color: white;
+}
+body #footercompany .footer .aboutfooter ul {
+  padding-left: 0;
+}
+body #footercompany .footer .aboutfooter ul li {
+  list-style: none;
+}
+body #footercompany .footer .aboutfooter .wishing .google {
+  width: 150px;
+  margin-bottom: 10px;
+}
+body #footercompany .footer .aboutfooter .socials {
+  display: flex;
+  gap: 20px;
+}
+body #footercompany .footer .aboutfooter .socials img {
+  width: 20px;
+}
+body #footercompany .footer-2 {
+  margin-top: 50px;
+  width: 100%;
+  height: 50px;
+  background: black;
+}
+body #footercompany .footer-2 p {
+  color: rgb(132, 132, 132);
+  margin-left: 105px;
+  position: absolute;
+  margin-top: 15px;
+}/*# sourceMappingURL=tickets.css.map */

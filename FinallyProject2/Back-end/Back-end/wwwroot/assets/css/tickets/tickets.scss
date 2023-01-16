@@ -1,0 +1,387 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Caramel&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Alegreya&display=swap');
+
+body {
+    overflow-x: hidden;
+
+    /*----------HEAD----------*/
+    #navbar {
+        position: relative;
+        margin-top: 55px;
+
+        .logo {
+            position: absolute;
+            bottom: 1px;
+
+            img {
+                width: 180px;
+            }
+        }
+
+        .nav-menu {
+
+
+            ul {
+                list-style: none;
+                display: flex;
+                justify-content: center;
+                align-items: center;
+
+
+
+                li {
+                    background: none;
+                    border: 1px solid #95775d;
+                    border-radius: 20px;
+                    margin-right: 20px;
+
+                    a {
+
+                        text-decoration: none;
+                        min-width: 137px;
+                        height: 33px;
+                        border-radius: 1000px;
+                        padding: 2px 20px 0;
+                        display: flex;
+                        justify-content: center;
+                        align-items: center;
+                        background-color: rgba(255, 255, 255, .05);
+                        -webkit-backdrop-filter: blur(2px);
+                        backdrop-filter: blur(2px);
+
+                        span {
+                            color: #95775d;
+                            font-size: 12px;
+                            text-transform: uppercase;
+                        }
+                    }
+                }
+            }
+        }
+
+        .nav-shop {
+            border: 1px solid black;
+            margin-left: 56px;
+            border-radius: 20px;
+
+            a {
+                min-width: 137px;
+                height: 33px;
+                border-radius: 1000px;
+                padding: 2px 20px 0;
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                background-image: url(https://portal.laplanduk.co.uk/wp-content/themes/lapland/dist/img/gold.jpg);
+                background-repeat: no-repeat;
+                background-size: cover;
+                color: #0f204b;
+                text-decoration: none;
+
+                span {
+                    font-size: 12px;
+                    text-transform: uppercase;
+                }
+            }
+        }
+    }
+
+    /*----------MAIN----------*/
+    #tickets-title {
+
+        margin-top: 150px;
+
+        .upper-title {
+
+            position: relative;
+            left: 465px;
+            bottom: 40px;
+
+            p {
+
+                position: absolute;
+                line-height: 3.5;
+                transform: rotate(-4deg) translate(-50%, 0);
+                font-family: 'Caramel', cursive;
+                color: #95775d;
+                ;
+                font-size: 40px;
+            }
+
+        }
+
+        .title {
+            display: flex;
+            justify-content: center;
+            font-family: 'Alegreya', serif;
+
+            h1 {
+                font-size: 104px;
+                color: #0F204B;
+            }
+        }
+
+
+        .content {
+            display: flex;
+            justify-content: center;
+            text-align: center;
+            color: #0F204B;
+
+            p {
+                width: 585px;
+            }
+        }
+    }
+
+    #tickets-card {
+        .cards {
+            display: flex;
+            justify-content: center;
+
+            .upper-title {
+                font-family: 'Caramel', cursive;
+                position: absolute;
+                margin-top: 165px;
+                margin-bottom: 6px;
+                line-height: 1.5;
+                background-image: url(https://portal.laplanduk.co.uk/wp-content/themes/lapland/dist/img/gold.jpg);
+                background-clip: text;
+                -webkit-background-clip: text;
+                color: transparent;
+
+                h1 {
+                    font-size: 80px;
+                }
+
+            }
+
+            .content {
+                position: absolute;
+                margin-top: 285px;
+
+                h2 {
+                    color: white;
+                    text-align: center;
+                    font-size: 30px;
+                    font-family: 'Alegreya', serif;
+
+                }
+
+                p {
+                    margin-top: 50px;
+                    width: 606px;
+                    text-align: center;
+                    color: white;
+                }
+
+                .input-email {
+                    display: flex;
+                    justify-content: center;
+
+                    input {
+                        margin-top: 50px;
+                        width: 400px;
+                        border: 1px solid white;
+                        border-radius: 5px;
+                        padding: 20px;
+                        height: 40px;
+                        border-color: rgba(255, 255, 255, .5);
+                        background-color: rgba(255, 255, 255, .1);
+                    }
+                }
+
+                .bttn {
+                    display: flex;
+                    justify-content: center;
+                    margin-top: 40px;
+
+                    button {
+                        font-size: 20px;
+                        color: white;
+                        border: none;
+                        background: none;
+                    }
+                }
+
+
+            }
+        }
+    }
+
+    #faqs {
+        position: relative;
+
+        .booking-faqs {
+            .booking-about {
+                width: 100%;
+                display: flex;
+                justify-content: center;
+                margin-top: 20px;
+            }
+
+            h1 {
+                text-align: center;
+                font-family: 'Caramel', cursive;
+                font-size: 65px;
+            }
+
+
+            p {
+                text-align: center;
+                width: 580px;
+            }
+        }
+
+        .ticket-includes {
+            margin-top: 100px;
+            color: #0F204B;
+
+            p {
+                line-height: 2.5;
+            }
+
+        }
+
+        .book-tickets {
+            margin-top: 60px;
+            color: #0F204B;
+
+            p {
+                
+                line-height: 2.5;
+            }
+
+        }
+
+        .book-group {
+            margin-top: 60px;
+            color: #0F204B;
+
+            p {
+                width: 1035px;
+                line-height: 1.5;
+            }
+
+        }
+
+        .booking-familly {
+            margin-top: 60px;
+            color: #0F204B;
+
+            p {
+                width: 1035px;
+                line-height: 1.5;
+            }
+
+        }
+
+        .refund-policy {
+            margin-top: 60px;
+            color: #0F204B;
+
+            p {
+                width: 1035px;
+                line-height: 1.5;
+            }
+
+        }
+
+        
+        .ticketplan {
+            margin-top: 60px;
+            color: #0F204B;
+
+            p {
+                width: 1035px;
+                line-height: 1.5;
+            }
+
+        }
+
+        .mylapland {
+            margin-top: 60px;
+            color: #0F204B;
+
+            p {
+                width: 1035px;
+                line-height: 1.5;
+            }
+
+        }
+
+
+
+        
+    }
+
+
+     /*----------FOOTER----------*/
+
+     #footercompany {
+        margin-top: 100px;
+        background-color: #010e20;
+
+        .footer {
+
+            padding-top: 80px;
+
+            .logo2 {
+                position: absolute;
+                left: 30;
+
+                img {
+                    width: 170px;
+                }
+            }
+
+            .aboutfooter {
+                color: white;
+
+                ul {
+                    padding-left: 0;
+
+                    li {
+                        list-style: none;
+                    }
+                }
+
+                .wishing {
+                    .google {
+                        width: 150px;
+                        margin-bottom: 10px;
+                    }
+                }
+
+                .socials {
+                    display: flex;
+                    gap: 20px;
+
+                    img {
+                        width: 20px;
+                    }
+                }
+            }
+        }
+
+        .footer-2 {
+            margin-top: 50px;
+            width: 100%;
+            height: 50px;
+            background: black;
+
+            p {
+                color: rgb(132, 132, 132);
+                margin-left: 105px;
+                position: absolute;
+                margin-top: 15px;
+            }
+        }
+    }
+}

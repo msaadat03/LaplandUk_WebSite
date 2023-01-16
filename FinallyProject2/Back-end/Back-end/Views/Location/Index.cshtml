@@ -1,0 +1,96 @@
+﻿@model LocationVm
+@{
+    ViewData["Title"] = "Location";
+}
+
+@section Links{
+    <title>Lapland - Reviews</title>
+    <link rel="icon" href="~/assets/images/index/logo-icon.png" type="image/x-icon">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+    <link rel="stylesheet" href="~/assets/css/getting-here/getting-here.css">
+}
+
+   
+    <main>
+        <section id="new-title">
+            <div class="title-back">
+                <h3>@Model.LocationTitles.Title</h3>
+                <img src="~/assets/images/books-firstpage/@Model.LocationTitles.Images" alt="">
+            </div>
+        </section>
+        
+        <section id="traveling-lapland">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-6 col-md-6 col-12">
+                      <div class="about">
+
+                        @foreach (var item in Model.CompasContents)
+                       {
+                            <h3>@item.Title</h3>
+                            <div class="content-travel">
+                                <p>@Html.Raw(item.Desc)</p>
+                            </div>
+                            <br><br>
+                       }
+                     </div>
+                    </div>
+
+                    <div class="col-lg-6 col-md-6 col-12">
+                        <div class="travel-images">
+                            <div class="image">
+                                <img class="compas" src="~/assets/images/getting-here/@Model.Compasses.Images" alt="">
+                            </div>
+                            <div class="button-maps">
+                                <button>
+                                    <a style="text-decoration: none; color: black;"
+                                        href="https://www.google.co.uk/maps/place/LaplandUK/51.4085751,-0.7102024,17z/data=!4m13!1m7!3m6!1s0x48767e61db367521:0x169cfdbb33f9255a!2z0KPQuNC90LrRhNC40LvQtCDQoNC-0YMsINCQ0YHQutC-0YIgU0w1IDhCRCwg0JLQtdC70LjQutC-0LHRgNC40YLQsNC90LjRjw!3b1!8m2!3d51.4114105!4d-0.7070735!3m4!1s0x0:0xb8768fbfd40856ed!8m2!3d51.4083506!4d-0.7082691"><span>View
+                                            Larger Map <i class="fa-solid fa-circle-chevron-right"></i></span></a>
+                                </button>
+                            </div>
+                        </div>
+                    </div>
+
+
+
+                </div>
+            </div>
+        </section>
+
+        <section id="taxis">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-6 col-md-6 col-12">
+                        <div class="taxis-images">
+                            <div class="image">
+                                <img src="~/assets/images/getting-here/@Model.GoldeBells.Images" alt="" class="async">
+                            </div>
+                        </div>
+                        
+                    </div>
+
+
+                    <div class="col-lg-6 col-md-6 col-12">
+                        <div class="about">
+                            @foreach (var item in Model.GoldenContentsses)
+                           {
+                               <h3>@item.Title</h3>
+                            <div class="content-taxis">
+                                <p>@Html.Raw(@item.Desc)</p>
+                            </div>
+                            <br><br>
+                           }
+                        </div>
+
+                    </div>
+
+                </div>
+            </div>
+
+        </section>
+    </main>
+
+    @section Scripts{
+        <script src="https://kit.fontawesome.com/07a597ef8b.js" crossorigin="anonymous"></script>
+    }

@@ -1,0 +1,24 @@
+﻿@model SubCategoryCreateVM
+
+<div class="container-fluid mx-5 my-3">
+    <h3>Sub category - Create</h3>
+    <form asp-action="Create" method="post" enctype="multipart/form-data">
+        <div>
+            <label class="my-3" asp-for="CategoryId">Category</label>
+            <select class="form-control" asp-for="CategoryId" asp-items="@ViewBag.categories"></select>
+        </div>
+
+        <div>
+            <label class="my-3" asp-for="SubCategory">Sub Category</label>
+            <input class="form-control" type="text" asp-for="SubCategory">
+            <span class="text-danger my-1" asp-validation-for="SubCategory"></span>
+        </div>
+
+        <a class="btn btn-danger my-3" style="color: white;" asp-controller="SubCategory" asp-action="Index">Back</a>
+        <button type="submit" class="btn btn-primary my-3" style="color: white;">Create</button>
+    </form>
+</div>
+
+@section Scripts{
+    <partial name="_ValidationPartial" />
+}
